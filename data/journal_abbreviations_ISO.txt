@@ -1,0 +1,276 @@
+(de jpsj_manus_e)
+
+		Acc. Chem. Res.
+TOMS
+		Acta Crystallogr.
+		Acta Crystallogr., Sect. A
+		Acta Metall.
+		Acta Phys.
+		Acta Phys. Pol.
+		Acoust. Sci. Technol.
+		Acoustica
+		Adv. Appl. Mech.
+		Adv. At. Mol. Opt. Phys.
+		Adv. Chem. Phys.
+AM		Adv. Mater.
+		Adv. Phys.
+		Adv. Quantum Chem.
+		AIAA J.
+		AIChE J.
+AIPCP		AIP Conf. Proc.
+		Akust. Zh.
+AJP		Am. J. Phys.
+		Anal. Chem.
+		Angew. Chem., Int. Ed.
+		Ann. Chim. Phys.
+		Ann. Geophys.
+		Ann. Fluid Dyn.
+		Ann. Math.
+ANPK		Ann. Phys. (Leipzig)
+		Ann. Phys. (N.Y.)
+		Ann. Phys. (Paris)
+		Annu. Rev. Nucl. Sci.
+AO	ApOpt	Appl. Opt.
+APA		Appl. Phys. A
+APL	ApPhL	Appl. Phys. Lett.
+		Appl. Spectrosc.
+		Appl. Supercond.
+		Appl. Surf. Phys.
+		Appl. Surf. Sci.
+		Astron. J.
+		Astrophys. J.
+		At. Energ.
+		Aust. J. Phys.
+		Bell Syst. Tech. J.
+		Ber. Bunsen-Ges. Phys. Chem.
+		Biochemistry
+		Biometrika
+		Br. J. Appl. Phys.
+		Bull. Am. Phys. Soc.
+		Bull. Chem. Soc. Jpn.
+		Butsuri
+		C. R. Acad. Sci.
+		C. R. Acad. Sci., Ser. A
+		Can. J. Phys.
+		Chem. Lett.
+		Chem. Phys.
+CPL	CPL	Chem. Phys. Lett.
+		Chem. Rev.
+		Commun. Math. Phys.
+		Commun. Pure Appl. Phys.
+		Comput. Phys.
+		Cryogenics
+		Curr. Appl. Phys.
+		Czech. J. Phys.
+		Diamond Relat. Mater.
+		Discuss. Faraday Soc.
+		Dokl. Akad. Nauk SSSR
+EL		Electron. Lett.
+		Eur. Phys. J. A
+EPL	EL	Europhys. Lett.
+		Ferroelectrics
+		Fiz. Tverd. Tela
+		Fortschr. Phys.
+		Geochim. Cosmochim. Acta
+		Geophys. Res. Lett.
+		Helv. Chim. Acta
+		Helv. Phys. Acta
+		Hyperfine Interactions
+		IBM J. Res. Dev.
+		IEE Proc.—Optelectron.
+		IEE Proc.—Sci. Meas. Technol.
+		IEEE Electron Device Lett.
+		IEEE J. Quantum Electron.
+		IEEE J. Sel. Top. Quantum
+		Electron.
+		IEEE J. Solid-State Circuits
+		IEEE Photonics Technol. Lett.
+		IEEE Trans. Antennas Propag.
+		IEEE Trans. Electron Devices
+		IEEE Trans. Inf. Theory
+		IEEE Trans. Instrum. Meas.
+		IEEE Trans. Magn.
+		IEEE Trans. Microwave Theory
+		Tech.
+		IEEE Trans. Nucl. Sci.
+		IEEE Trans. Plasma. Sci.
+		IEEE Trans. Sonics Ultrason.
+		IEEE Trans. Ultrason.
+		Ferroelectr. Freq. Control
+		IEICE Trans. Electron.
+		Infrared Phys.
+		Inorg. Chem.
+		Int. J. Mass Spectrom. Ion Phys.
+		Int. J. Mod. Phys. A
+		Int. J. Quantum Chem.
+		Integrated Ferroelectr.
+		Izv. Akad. Nauk SSSR, Ser. Fiz.
+		J. Acoust. Soc. Am.
+		J. Alloys Compd.
+		J. Am. Ceram. Soc.
+		J. Am. Chem. Soc.
+		J. Appl. Crystallogr.
+JAP	JAP	J. Appl. Phys.
+		J. Br. Nucl. Energy Soc.
+		J. Catal.
+		J. Chem. Phys.
+		J. Chem. Soc.
+		J. Chim. Phys. Phys.-Chim. Biol.
+		J. Cryst. Growth
+		J. Electrochem. Soc.
+		J. Electron. Mater.
+		J. Electron Spectrosc. Relat.
+		Phenom.
+		J. Fluid Mech.
+JHEP	JHEP	J.
+		J. Korean Phys. Soc.
+		J. Less-Common Met.
+		J. Lightwave Technol.
+		J. Low Temp. Phys.
+		J. Lumin.
+		J. Magn. Magn. Mater.
+		J. Mater. Sci.
+		J. Mater. Res.
+JMP	JPM	J. Math. Phys.
+		J. Mol. Spectrosc.
+		J. Non-Cryst. Solids
+		J. Nucl. Energy
+		J. Nucl. Energy, Part A
+		J. Nucl. Mater.
+		J. Nucl. Sci. Technol.
+JOA	JOptA	
+JOSAA	JOSAA	J. Opt. Soc. Am. A
+		J. Phys. A
+		J. Phys. (Paris)
+		J. Phys. I
+		J. Phys. Chem.
+		J. Phys. Chem. Solids
+		J. Phys.: Condens. Matter
+		J. Phys. Soc. Jpn.
+		J. Plasma Phys.
+		J. Polym. Sci.
+		J. Polym. Sci., Polym. Lett. Ed.
+		J. Polym. Sci., Polym. Phys. Ed.
+		J. Polym. Sci., Part A
+		J. Quant. Spectrosc. Radiat. Transfer
+		J. Res. Natl. Bur. Stand.
+		J. Res. Natl. Bur. Stand., Sect. A
+		J. Rheol.
+		J. Sound Vib.
+		J. Stat. Phys.
+		J. Vac. Sci. Technol.
+		J. Vac. Sci. Technol. A
+		JETP Lett.
+		Jpn. J. Appl. Phys.
+		K. Dan. Vidensk. Vidensk. Selsk.
+		Mat.-Fys. Medd.
+		Kotai Butsuri
+		Kristallografia
+		Langmuir
+		Mater. Res. Bull.
+		Mater. Res. Soc. Symp. Proc.
+		Mater. Trans.
+		Mol. Cryst. Liq. Cryst.
+		Mol. Phys.
+		Nano Lett.
+		Nanotechnology
+N	Natur	Nature
+		Nat. Mater.
+NP	NatPh	Nat. Phys.
+NPHO	NaPho	
+		New J. Phys.
+		Nonlinearity
+		Nucl. Eng. Des.
+		Nucl. Fusion
+		Nucl. Instrum. Methods
+		Nucl. Instrum. Methods Phys.
+		Res., Sect. A
+		Nucl. Phys.
+		Nucl. Phys. A
+		Nuovo Cimento
+		Nuovo Cimento A
+		Opt. Acta
+OC	OptCo	Opt. Commun.
+		Opt. Eng.
+		Opt. Express
+OL	OptL	Opt. Lett.
+		Opt. Rev.
+		Opt. Spectrosc.
+		Optik
+		Oyo Buturi
+		Philips Res. Rep.
+		Philos. Mag.
+		Philos. Mag. A
+		Philos. Trans. R. Soc. London,
+		Ser. A
+		Phys. Chem.
+		Phys. Fluids
+		Phys. Lett.
+		Phys. Lett. A
+		Phys. Met. Metall.
+PR	PhRv	Phys. Rev.
+PRA	PhRvA	Phys. Rev. A
+PRB	PhRvB	Phys. Rev. B
+PRL	PhRvL	Phys. Rev. Lett.
+		Phys. Scr.
+		Phys. Semicond.
+		Phys. Status Solidi
+		Phys. Status Solidi A
+		Phys. Today
+		Physica
+		Physica A
+		Physics (N.Y.)
+		Plasma Phys.
+		Polym. J.
+		Proc. IEE
+		Proc. IEEE
+		Proc. IRE
+		Proc. Natl. Acad. Sci. U.S.A.
+		Proc. Phys. Soc., Sect. A
+		Proc. Phys. Soc. London
+		Proc. R. Soc. London
+	RSPSA	Proc. R. Soc. London, Ser. A
+		Proc. SPIE
+		Prog. Theor. Phys.
+		Radiat. Eff.
+RMP	RvMP	Rev. Mod. Phys.
+		Rev. Sci. Instrum.
+		Sci. Am.
+S	Sci	Science
+SST	SeScT	
+		Sens. Actuators
+		Sens. Actuators A
+		SID Int. Symp. Dig. Tech. Pap.
+		Sol. Energy Mater.
+		Sol. Energy Mater. Sol. Cells
+		Solid State Commun.
+		Solid-State Electron.
+		Solid State Ionics
+		Solid State Phys.
+		Solid State Technol.
+		Sov. Phys. Acoust.
+		Sov. Phys. Crystallogr.
+		Sov. Phys. Dokl.
+		Sov. Phys. JETP
+		Sov. Phys. Semicond.
+		Sov. Phys. Solid State
+		Sov. Phys. Usp.
+		Supercond. Sci. Technol.
+		Superlattices Microstruct.
+		Surf. Sci.
+		Synth. Met.
+		Trans. Faraday Soc.
+		Trans. Metall. Soc. AIME
+		Thin Solid Films
+		Usp. Fiz. Nauk
+		Vacuum
+		Z. Angew. Math. Phys.
+		Z. Angew. Phys.
+		Z. Kristallogr.
+		Z. Naturforsch.
+		Z. Naturforsch. A
+		Z. Phys. A
+		Z. Phys. Chem. (Leipzig)
+		Zh. Eksp. Teor. Fiz.
+		Zh. Tekh. Fiz.
+		

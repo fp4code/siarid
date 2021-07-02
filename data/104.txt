@@ -1,0 +1,3436 @@
+ADS Bibliographic Codes: Refereed Publications
+
+This list contains Bibliographic Code abbreviations for refereed publications
+Shortcuts:    A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z  
+
+Clicking on the links below will open a search form for the selected publication
+
+
+1992LNP...402    1830-1930: A Century of Geometry: Epistemology, History and Mathematics
+1995LNP...445    25 Years of Non-Equilibrium Statistical Mechanics
+    TDR..        3D Research
+2011ibws.conf    7th Integral/BART Workshop
+    CRASB        Academie des Science Paris Comptes Rendus Serie B Sciences Physiques
+    CR2..        Academie des Sciences Comptes Rendus Serie Mecanique Physique Chimie Sciences de la Terre et de l Univers
+    CRAS.        Academie des Sciences Paris Comptes Rendus
+    CRASG        Academie des Sciences Paris Comptes Rendus Serie Generale La Vie des Sciences
+    CRASP        Academie des Sciences Paris Comptes Rendus Serie Physique Astrophysique
+    CRASM        Academie des Sciences Paris Comptes Rendus Serie Sciences Mathematiques
+    CRASA        Academie des Sciences Paris Comptes Rendus Vie Academique Semester Supplement
+1997LNP...487    Accretion Disks - New Aspects
+1990LNP...356    Accuracy of Element Abundances from Stellar Atmospheres
+    AIH..        Acoustical Imaging and Holography
+    APhy.        Acoustical Physics
+    ASAJ.        Acoustical Society of America Journal
+    AcouL        Acoustics Letters
+    AcAcu        Acta Acustica
+    AcAer        Acta Aerodynamica Sinica
+    AcAAS        Acta Aeronautica et Astronautica Sinica
+    AcAM.        Acta Applicandae Mathematicae
+    AcAri        Acta Arithmetica
+    AcArm        Acta Armamentarii
+    AcAau        Acta Astronautica
+    AcA..        Acta Astronomica
+    AcASn        Acta Astronomica Sinica
+    AcAS.        Acta Astronomica Supplementa
+    AcApS        Acta Astrophysica Sinica
+    AcAuS        Acta Automatica Sinica
+    AcBAS        Acta Biochimica and Biophysica Academiae Scientarium Hungarica
+    AcBBH        Acta Biochimica et Biophysica Hungarica
+    AcBBS        Acta Biochimica et Biophysica Sinica
+    AcBio        Acta Biotheoretica
+    AcCS.        Acta Chemica Scandinavica Series A
+    AcC..        Acta Cosmologica
+    AcCrA        Acta Crystallographica Section A
+    AcCrB        Acta Crystallographica Section B
+    AcCrC        Acta Crystallographica Section C
+    AcCrD        Acta Crystallographica Section D
+    AcElc        Acta Electrochimica
+    AcESn        Acta Electron. Sinica
+    AcEle        Acta Electronica
+    AcElS        Acta Electronica Sinica
+    AcGG.        Acta Geod. Geophys.
+    AcGSn        Acta Geophys. Sinica
+    AcGeo        Acta Geophysica
+    AcGeP        Acta Geophysica Polonica
+    AcHA.        Acta Historica Astronomiae
+    AcMCS        Acta Materiae Compositae Sinica
+    AcMat        Acta Materialia
+    AcMa.        Acta Mathematica
+    AcMaH        Acta Mathematica Hungarica
+    AcMaS        Acta Mathematica Sinica
+    AcMSw        Acta Mathematica Sweden
+    AcMec        Acta Mechanica
+    AcMSn        Acta Mechanica Sinica
+    AcMSS        Acta Mechanica Solida Sinica
+    AcMet        Acta Metallurgica
+    AcM&M        Acta Metallurgica et Materialia
+    AcMMS        Acta Metallurgica et Materialia Supplement
+    AcMeS        Acta Meteorologica Sinica
+    AcNum        Acta Numerica
+    AcOSi        Acta Oceanica Sinica
+    AcOdS        Acta Odontologica Scandinavica
+    AcO..        Acta Oecologica
+    AcOpS        Acta Optica Sinica
+    AcOrS        Acta Orthopaedica Scandinavica
+    AcPSi        Acta Photonica Sinica
+    AcPhy        Acta Physica
+    APASH        Acta Physica Academiae Scientiarum Hungaricae
+    AcPhA        Acta Physica Austriaca
+    AcPAS        Acta Physica Austriaca Supplement
+    AcPhC        Acta Physica et Chemica
+    AcPhH        Acta Physica Hungarica
+    APHHI        Acta Physica Hungarica Heavy Ion Physics
+    APHQE        Acta Physica Hungarica Quantum Electronics
+    AcPPA        Acta Physica Polonica A
+    AcPPB        Acta Physica Polonica B
+    AcPSn        Acta Physica Sinica
+    AcPSl        Acta Physica Slovaca
+    AcPhS        Acta Physiologica Scandinavica
+    AcPSc        Acta Polytechnica Scandinavica Applied Physics Series
+    AcPSP        Acta Polytechnica Scandinavica Physics
+    AcSSn        Acta Seismologica Sinica
+    ASSF.        Acta Societatis Scientarum Fennicae
+    ASSFA        Acta Societatis Scientarum Fennicae Series A
+    AcTec        Acta Technica
+    AcMPh        Acta Universitatis Caroliae. Mathematica et Physica
+    AcMPS        Acta Universitatis Caroliae. Mathematica et Physica Supplement
+    APEC.        Active and Passive Electronic Components
+1988LNP...307    Active Galactic Nuclei
+    Acu..        Acustica
+    AdBeh        Adaptive Behaviour
+    Adsor        Adsorption
+    AAMS.        Adv. Appl. Mech. Suppl.
+    AdCM.        Advanced Ceramic Materials
+    AdCoL        Advanced Composites Letters
+2001LNP...581    An Advanced Course in Modern Nuclear Physics
+    AMP..        Advanced Materials and Processes
+1985LNP...236    Advanced Methods in the Evaluation of Nuclear Scattering Data
+    APM..        Advanced Performance Materials
+    ASL..        Advanced Science Letters
+    AdSAC        Advanced Series in Astrophysics and Cosmology
+    AdSMP        Advanced Series in Mathematical Physics
+    ASDHE        Advanced Series on Directions in High Energy Physics
+    AdTPh        Advanced Texts in Physics
+    AAnSc        Advances in the Astronautical Sciences
+1991LNP...395    Advances in the Free-Lagrange Method Including Contributions on Adaptive Gridding and the Smooth Particle Hydrodynamics Method
+    AdAeS        Advances in Aeronautical Sciences
+    AdApM        Advances in Applied Mathematics
+    AdAst        Advances in Astronomy
+    AdA&A        Advances in Astronomy and Astrophysics
+    AdAtS        Advances in Atmospheric Sciences
+    AdAMP        Advances in Atomic and Molecular Physics
+    AAMOP        Advances in Atomic Molecular and Optical Physics
+    AdBMP        Advances in Biological and Medical Physics
+    AdBio        Advances in Biophysics
+    AdCP.        Advances in Cardiovascular Physics
+    AdChP        Advances in Chemical Physics
+    AdCIS        Advances in Colloid and Interface Science
+    AdCoM        Advances in Computational Mathematics
+    AdCMP        Advances in Condensed Matter Physics
+    AdEPS        Advances in Earth and Planetary Sciences
+    AdEOA        Advances in Earth Oriented Applications and Space Technology
+    AdEEP        Advances in Electronics and Electron Physics
+    AEEPS        Advances in Electronics and Electron Physics Supplement
+    AdExG        Advances in Exploration Geophysics
+1981LNP...148    Advances in Fluid Mechanics
+    AdGDP        Advances in Geophysical Data Processing
+    AdGR.        Advances in Geophysical Research
+    AdGeo        Advances in Geophysics
+    AdGeS        Advances in Geophysics Supplement
+    AdG..        Advances in Geosciences
+2006aogs....1    Advances in Geosciences, Volume 1: Solid Earth (SE)
+2009aogs...10    Advances in Geosciences, Volume 10: Atmospheric Science (AS)
+2009aogs...11    Advances in Geosciences, Volume 11: Hydrological Science (HS)
+2009aogs...12    Advances in Geosciences, Volume 12: Ocean Science (OS)
+2009aogs...13    Advances in Geosciences, Volume 13: Solid Earth (SE)
+2009aogs...14    Advances in Geosciences, Volume 14: Solar Terrestrial (ST)
+2009aogs...15    Advances in Geosciences, Volume 15: Planetary Science (PS)
+2010aogs...16    Advances in Geosciences, Volume 16: Atmospheric Science (AS)
+2010aogs...17    Advances in Geosciences, Volume 17: Hydrological Science (HS)
+2010aogs...18    Advances in Geosciences, Volume 18: Ocean Science (OS)
+2010aogs...19    Advances in Geosciences, Volume 19: Planetary Science (SE)
+2006aogs....2    Advances in Geosciences, Volume 2: Solar Terrestrial (ST)
+2010aogs...20    Advances in Geosciences, Volume 20: Solid Earth (SE)
+2010aogs...21    Advances in Geosciences, Volume 21: Solar Terrestrial (ST)
+2006aogs....3    Advances in Geosciences, Volume 3: Planetary Science (PS)
+2006aogs....4    Advances in Geosciences, Volume 4: Hydrological Science (HS)
+2006aogs....5    Advances in Geosciences, Volume 5: Oceans & Atmospheres (OA)
+2006aogs....6    Advances in Geosciences, Volume 6: Hydrological Science (HS)
+2006aogs....7    Advances in Geosciences, Volume 7: Planetary Science (PS)
+2006aogs....8    Advances in Geosciences, Volume 8: Solar Terrestrial (ST)
+2006aogs....9    Advances in Geosciences, Volume 9: Solid Earth, Ocean Science & Atmospheric Science (2006)
+    AdHEP        Advances in High Energy Physics
+    ADIEP        Advances in Imaging and Electron Physics
+    AdMRe        Advances in Magnetic Resonance
+    AdMaP        Advances in Mathematical Physics
+    AdMat        Advances in Mathematics
+    AdMPS        Advances in Mechanics and Physics of Surfaces
+    AdMUM        Advances in Mechanics Uspekhi Mekhaniki
+    AdMet        Advances in Meteorology
+    AdNOp        Advances in Nonlinear Optics
+    AdNuP        Advances in Nuclear Physics
+    AdPhG        Advances in Physical Geochemistry
+    AdPhy        Advances in Physics
+    AdPPR        Advances in Plasma Physics Research
+    AdPoS        Advances in Polymer Science
+    AdQC.        Advances in Quantum Chemistry
+    AdRS.        Advances in Radio Science
+    AdSR.        Advances in Science and Research
+1994LNP...432    Advances in Solar Physics
+    AdSSP        Advances in Solid State Physics
+    AdSpR        Advances in Space Research
+    AdTAM        Advances in Theoretical and Applied Mechanics
+    AdTMP        Advances in Theoretical and Mathematical Physics
+    AdThP        Advances in Theoretical Physics
+    AdWR.        Advances in Water Resources
+    AeRaG        Aerodinamika Razrezhennykh Gazov
+    AerTe        Aerojet Technology
+    AeIBu        Aerokosmicheski Izsledvaniia B lgariia
+    AeJ..        Aeronautical Journal
+    AeQ..        Aeronautical Quarterly
+    AeSIJ        Aeronautical Society India Journal
+    AS&T.        Aerosol Science & Technology
+    AerST        Aerosol Science Technology
+    AeAm.        Aerospace America
+    AeCh.        Aerospace China
+    AeCM.        Aerospace Composites and Materials
+    AeDy.        Aerospace Dynamics
+    AeEn.        Aerospace Engineering
+    AeMat        Aerospace Materials
+    AeMed        Aerospace Medicine
+    AeTJa        Aerospace Technology Japan
+    Aero.        Aerospace UK
+1989LNP...340    The Aharonov-Bohm Effect
+    EDAM.        AI EDAM
+    AIAAJ        AIAA Journal
+    AIASJ        AIAA Student Journal
+    AIChE        AIChE Journal
+    AIHAJ        AIHA Journal
+    AirSp        Air and Space
+    AirCo        Air et Cosmos
+    AiInt        Air International
+    APCAJ        Air Pollution Control Association Journal
+    AE&AT        Aircraft Engineering & Aerospace Technology
+    DoArm        Akademiia Nauk Armianskoi SSR Doklady
+    DoAze        Akademiia Nauk Azerbaidzhanskoi SSR Doklady
+    DoBel        Akademiia Nauk BSSR Doklady
+    DoSSR        Akademiia Nauk SSSR Doklady
+    FizAO        Akademiia Nauk SSSR Fizika Atmosfery i Okeana
+    InSSR        Akademiia Nauk SSSR Investiia Mekhanika Zhidkosti i Gaza
+    MeSSR        Akademiia Nauk SSSR Mekhanika Zhidkosti i Gaza
+    DoTad        Akademiia Nauk Tadzhikskoi SSR Doklady
+    FiSSR        Akademiia Nauk Tadzhikskoi SSR Fiziko Tekhnicheskii Institut Dyushambe Tadzhik SSR Akademiia Nauk Tadzhikskoi SSR Doklady
+    FiUkr        Akademiia Nauk Ukrain skoi RSR Dopovidi Seriia Fiziko Matematichni ta Tekhnichni Nauki
+    DoUkr        Akademiia Nauk Ukrains koi RSR Dopovidi Seriia Fiziko Matematichni ta Tekhnichni Nauki
+    DoUzb        Akademiia Nauk Uzbekskoi SSR Doklady
+    AkZh.        Akusticheskii Zhurnal
+    AlFr.        Alta Frequenza
+    AFRE.        Alta Frequenza Rivista di Elettronica
+    ACSC.        American Ceramic Society Communications
+    ACSJ.        American Ceramic Society Journal
+    AHSJ.        American Helicopter Society Journal
+    AmJC.        American Journal of Cardiology
+    AmJM.        American Journal of Mathematics
+    AmJPh        American Journal of Physics
+    AmJS.        American Journal of Science
+    AmJSA        American Journal of Science and Arts
+    AmMin        American Mineralogist
+    AmSci        American Scientist
+    AICSP        Analog Integrated Circuits and Signal Processing
+    Ana..        The Analyst
+2006LNP...692    Analytical and Numerical Approaches to Mathematical Relativity
+    AnBio        Analytical Biochemistry
+    AnaCh        Analytical Chemistry
+    AnaIn        Analytical Instrumentation
+2003LNP...630    Anderson Localization and Its Ramifications: Disorder, Phase Coherence and Electron Correlations
+    AnP..        Annalen der Physik
+    AnMet        Annalen Meteorologie
+    AnAp.        Annales d'Astrophysique
+    AFLB.        Annales de la Fondation Louis de Broglie
+    AnG..        Annales de Geophysique
+    AnPh.        Annales de Physique
+    AnPCS        Annales de Physique Colloque Supplement
+    AnTel        Annales des Telecommunications
+    AnGeo        Annales Geophysicae
+    AnGeA        Annales Geophysicae Series A Upper Atmosphere and Space Sciences
+    AnGeB        Annales Geophysicae Series B Terrestrial and Planetary Physics
+    AnTec        Annales Tectonicae
+    AUGGM        Annales UMCS, Geographia, Geologia, Mineralogia et Petrographia
+    AnISM        Annals of the Institute of Statistical Mathematics
+    NYASA        Annals of the New York Academy of Sciences
+    AnUCP        Annals of the University of Craiova Physics AUC
+    AnApS        Annals of Applied Statistics
+    AGp..        Annals of Geophysics
+    AnGla        Annals of Glaciology
+    AnGAG        Annals of Global Analysis Geometry
+    AnMat        Annals of Mathematics
+    AnMAI        Annals of Mathematics and Artificial Intelligence
+    AnOR.        Annals of Operations Research
+    AnPhy        Annals of Physics
+    AnREE        Annals of Research on Engineering Education
+    AnSci        Annals of Science
+    AnSta        Annals of Statistics
+    ARAC.        Annual Review of Analytical Chemistry
+    ARA&A        Annual Review of Astronomy and Astrophysics
+    ARCMP        Annual Review of Condensed Matter Physics
+    AREPS        Annual Review of Earth and Planetary Sciences
+    AnRE.        Annual Review of Energy
+    AnRFM        Annual Review of Fluid Mechanics
+    ARMS.        Annual Review of Marine Science
+    AnRMS        Annual Review of Materials Science
+    ARNPS        Annual Review of Nuclear and Particle Science
+    ARPC.        Annual Review of Physical Chemistry
+    ARCP.        Annual Reviews of Computational Physics
+    AMR..        Antarctic Meteorite Research
+    Anten        Antenny
+    Apei.        Apeiron
+    ApMat        Aplikace Matematiky, Applied Mathematics
+    AppAn        Applicable Analysis
+1983LNP...177    Application of High Magnetic Fields in Semiconductor Physics
+    ApMa.        Applications of Mathematics
+1989LNP...324    Applications of Self-Adjoint Extensions in Quantum Physics
+2009LNP...776    Applications of Synchrotron Light to Scattering and Diffraction in Materials and Life Sciences
+    ApAc.        Applied Acoustics
+    ApAI.        Applied Artificial Intelligence
+    ApCM.        Applied Composite Materials
+    ACESJ        Applied Computational Electromagnetics Society Journal
+    ApEn.        Applied Energy
+    ApEnM        Applied Environmental Microbiology
+    ApGeo        Applied Geophysics
+1978LNP....85    Applied Inverse Problems
+    ApMF.        Applied Mathematical Finance
+    ApM..        Applied Mathematics
+    ApMaC        Applied Mathematics Computation
+    ApMaL        Applied Mathematics Letters
+    ApMaM        Applied Mathematics Mechanics English Edition
+    ApMaO        Applied Mathematics Optimization
+    AMM..        Applied Mechanics and Materials
+    ApMRv        Applied Mechanics Reviews
+    ApMic        Applied Microbiology
+    ApMT.        Applied Microgravity Technology
+    ApNM.        Applied Numerical Mathematics
+    ApOpt        Applied Optics
+    ApPhy        Applied Physics
+    ApPhA        Applied Physics A: Materials Science & Processing
+    ApPhB        Applied Physics B: Lasers and Optics
+    ApPPL        Applied Physics B Photophysics Laser Chemistry
+    ApPhC        Applied Physics Communications
+    APExp        Applied Physics Express
+    ApPhL        Applied Physics Letters
+    ApScR        Applied Scientific Research
+    ApSpe        Applied Spectroscopy
+    ApSRv        Applied Spectroscopy Reviews
+    ApSup        Applied Superconductivity
+    ApSS.        Applied Surface Science
+    ACMFE        Aquatic Conservation: Marine and Freshwater Ecosystems
+    AJSE.        Arabian Journal of Science Engineering
+    Arch.        Archaeoastronomy
+    ArchS        Archaeoastronomy Supplement
+    Archa        Archaeometry
+    ArElU        Archiv Elektronik und Uebertragungstechnik
+    ArMaN        Archiv for Mathematik og Naturvidenskab
+    AMGBK        Archiv Meteorologie Geophysik und Bioklimatologie Serie B Klimatologie und Umweltmeteorologie Strahlungsforschung
+    AMGBS        Archiv Meteorologie Geophysik und Bioklimatologie Serie Meteorologie und Geophysik
+    ArMeS        Archiv of Mechanics, Archiwum Mechaniki Stosowanej
+    AHES.        Archive for History of Exact Sciences
+    ArRMA        Archive for Rational Mechanics and Analysis
+    AAM..        Archive of Applied Mechanics
+    ArApM        Archive of Applied Mechanics
+    ArBB.        Archive of Biochemistry and Biophysics
+    ArAco        Archives Acoustics
+    ArS..        Archives des Sciences
+    AMGBA        Archives for Meteorology Geophysics and Bioclimatology Series A Meteorology and Atmopsheric Physics
+    AMGBB        Archives for Meteorology Geophysics and Bioclimatology Series B Theoretical and Applied Climatology
+    AIPBB        Archives Internationales de Physiologie de Biochimie et de Biophysique
+    ArCom        Archivum Combustionis
+    ArAku        Archiwum Akustyki
+    ArAuT        Archiwum Automatyki i Telemechaniki
+    ArBuM        Archiwum Budowy Maszyn
+    ArEle        Archiwum Elektrotechniki
+    ArPSp        Archiwum Procesow Spalania
+    ArTSp        Archiwum Termodynamiki i Spalania
+    AAAR.        Arctic, Antarctic and Alpine Research
+    ArA..        Arkiv for Astronomi
+    ArM..        Arkiv for Matematik
+    ArMAF        Arkiv for Matematik, Astronomi och Fysik
+1994aira.symp    Artificial Intelligence, Robotics, and Automation for Space Symposium
+    ArtSa        Artificial Satellites
+    ASHRA        ASHRAE Journal
+    AsJPh        Asian Journal of Physics
+    Aslib        Aslib Proceedings: new information perspectives
+    ATJEM        ASME Transactions Journal Engineering Materials and Technology
+    ATJDS        ASME Transactions Journal of Dynamic Systems and Measurement Control B
+    ATJEl        ASME Transactions Journal of Electronic Packaging
+    ATJEG        ASME Transactions Journal of Engineering Gas Turbines and Power
+    ATJFE        ASME Transactions Journal of Fluids Engineering
+    ATJHT        ASME Transactions Journal of Heat Transfer
+    ATJLT        ASME Transactions Journal of Lubrication Technology
+    ATJSE        ASME Transactions Journal of Solar Energy and Engineering
+    ATJTr        ASME Transactions Journal of Tribology
+    ATJTu        ASME Transactions Journal of Turbomachinery
+    ATJVA        ASME Transactions Journal of Vibration Acoustics
+    ATJAM        ASME Transactions Series E Journal of Applied Mechanics
+2008LNP...752    Aspects of Physical Biology
+    AsAut        Assembly Automation
+    Aster        Aster
+2002aste.conf    Asteroids III
+    StNws        ASTM Standardization News
+    AsBio        Astrobiology
+    Afz..        Astrofizika
+1990LNP...358    Astrométrie moderne
+    AAfz.        Astrometriia i Astrofizika
+2003LNP...609    Astromineralogy
+    AsAc.        Astronautica Acta
+    AsAcS        Astronautica Acta Supplement
+    AsAer        Astronautics Aeronautics
+    Asnau        Astronautik
+    A&AT.        Astronomical and Astrophysical Transactions
+    AJ...        The Astronomical Journal
+    AstRv        The Astronomical Review
+    AVest        Astronomicheskii Vestnik
+    AVISS        Astronomicheskii Vestnik Issledovaniia Solnechnoi Sistemy
+    AZh..        Astronomicheskii Zhurnal
+    A&R..        Astronomie und Raumfahrt
+    AN...        Astronomische Nachrichten
+    As&Ge        Astronomiya i geodeziya
+    A&A..        Astronomy and Astrophysics
+    AstAp        Astronomy and Astro-Physics (formerly The Sidereal Messenger)
+    A&ARv        Astronomy and Astrophysics Review
+    A&AS.        Astronomy and Astrophysics Supplement Series
+2003ASSL..290    Astronomy Communication
+    AEdRv        Astronomy Education Review
+    AExpr        Astronomy Express
+    AstL.        Astronomy Letters
+    AstQ.        Astronomy Quarterly
+    ARep.        Astronomy Reports
+    APh..        Astroparticle Physics
+    ApNr.        Astrophysica Norvegica
+    AstBu        Astrophysical Bulletin
+    ApInv        Astrophysical Investigations
+    ApJ..        The Astrophysical Journal
+    ApJL.        The Astrophysical Journal Letters
+    ApJS.        The Astrophysical Journal Supplement Series
+    ApL..        Astrophysical Letters
+    ApL&C        Astrophysical Letters Communications
+1993LNP...412    Astrophysical Masers
+    Ap...        Astrophysics
+    ASPRv        Astrophysics and Space Physics Reviews
+    Ap&SS        Astrophysics and Space Science
+    ApSSS        Astrophysics and Space Science Supplement
+    ASTRA        Astrophysics and Space Sciences Transactions
+2004LNP...648    Astrophysics, Clocks and Fundamental Constants
+    AstPo        Astropolitics
+2001LNP...573    Astrotomography, Indirect Imaging Methods in Observational Astronomy
+    AsAna        Asymptotic Analysis
+1984LNP...202    Asymptotic Behavior of Mass and Spacetime Geometry
+1995LNP...442    Asymptotic Modelling in Fluid Mechanics
+    ATTTJ        AT T Technical Journal
+    AJSEd        Atlas Journal of Science Education
+    Atmos        Atmosphere
+    AtO..        Atmosphere Ocean
+    AtOpt        Atmosphere Optics
+1992LNP...401    The Atmospheres of Early-Type Stars
+1988LNP...309    Atmospheric Aerosol and Nucleation
+    ACP..        Atmospheric Chemistry & Physics
+    ACPD.        Atmospheric Chemistry & Physics Discussions
+    AtmEn        Atmospheric Environment
+    AMT..        Atmospheric Measurement Techniques
+    AMTD.        Atmospheric Measurement Techniques Discussions
+    AtmRe        Atmospheric Research
+    AtSc.        Atmospheric Science
+    AtScL        Atmospheric Science Letters
+    AtmTe        Atmospheric Technology
+1992LNP...407    Atomic and Molecular Data for Space Astronomy
+    ADNDT        Atomic Data and Nuclear Data Tables
+    AtERv        Atomic Energy Review
+    AtPhy        Atomic Physics
+1997LNP...499    Atomic Physics Methods in Modern Research
+    AtST.        Atomisation Spray Technology
+    AtEn.        Atomnaia Energiia
+    ATR..        ATR Australian Telecommunication Research
+    AurPh        Auroral physics
+    AuJAR        Aust. J. Agric. Res.
+    AJCh.        Australian Journal of Chemistry
+    AuJES        Australian Journal of Earth Sciences
+    AuJPh        Australian Journal of Physics
+    AuJPA        Australian Journal of Physics Astrophysical Supplement
+    AuSRA        Australian Journal of Scientific Research A Physical Sciences
+    AJSR.        Australian Journal of Soil Research
+    AuMSJ        Australian Mathematical Society Journal Series B -- Applied Mathematics
+    AuMM.        Australian Meteorological Magazine
+    ACTAp        Automatic Control Theory Applications
+    Autom        Automatica
+    AuRob        Autonomous Robots
+    AvSeM        Aviation Space and Environmental Medicine
+    AvWST        Aviation Week Space Technology
+    AvKos        Aviatsiia i Kosmonavtika
+    AvTek        Aviatsionnaia Tekhnika
+    AvTel        Avtomatika i Telemekhanika
+    AvPE.        Avtomatizatsiia Proektirovaniia Elektronike
+2008LNP...741    Axions
+    BaltA        Baltic Astronomy
+2001LNP...580    Band-Ferromagnetism. Ground-State and Finite-Temperature Phenomena
+    BayAn        Bayesian Analysis
+    BIT..        Behaviour & Information Technology
+    BePl.        Beitraege Plasmaphysik
+    BeiMP        Beitraege zur Mineralogie und Petrographie
+    Bern.        Bernoulli
+1985LNP...222    The Beta Decay of Hyperons
+    BiLuf        Bildmessung und Luftbildwessen
+2001LNP...563    Binary Stars: Selected Topics on Observations and Physical Processes
+1991LNP...390    Bioastronomy: The Search for Extraterrestial Life — The Exploration Broadens
+    BBRC.        Biochemical and Biophysical Research Communications
+    BioJ.        Biochemical Journal
+    BCB..        Biochemistry and Cell Biology
+    AcBB.        Biochimica et Biophysica Acta
+    BioFa        Biofabrication
+    BGeo.        Biogeosciences
+    BGD..        Biogeosciences Discussions
+    BiBi.        Bioinspiration and Biomimetics
+    BMP..        Biological and Medical Physics
+2002LNP...585    Biological Evolution and Statistical Physics
+    BPS..        Biological Physics Series
+    BRCPS        Biological Reviews of the Cambridge Philosophical Society
+    BioMa        Biomedical Materials
+    BioMi        Biomedical Microdevices
+    Biome        Biometrika
+    Bion.        Bionika
+    BioCh        Biophysical Chemistry
+    BpJ..        Biophysical Journal
+    BpBeS        Biophysics and Bioengineering Series
+    BioSM        Biophysics of Structure and Mechanism
+    Biopk        Biophysik
+    Biorh        Biorheology
+    BioSc        BioScience
+    BiotL        Biotechnology Letters
+1995LNP...455    Birth of the Universe and Fundamental Physics
+1989LNP...334    BL Lac Objects
+1998LNP...514    Black Holes: Theory and Observation
+    BlazD        BLAZAR Data
+    BAAA...47    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BAAA...48    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BAAA...49    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BAAA...50    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BAAA...51    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BAAA...52    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BAAA...53    Boletin de la Asociacion Argentina de Astronomia La Plata Argentina
+    BlDok        Bolgarska Akademiia Nauk Doklady
+    BoLMe        Boundary-Layer Meteorology
+    Brain        Brain
+    BrJPh        Brazilian Journal of Physics
+2002LNP...605    Bridging the Time Scales:  Molecular Simulations for the Next Decade
+    BJHS.        The British Journal for the History of Science
+    BJPS.        The British Journal for the Philosophy of Science
+    BJAP.        British Journal of Applied Physics
+    BJET.        British Journal of Educational Technology
+    BJMSP        British Journal of Mathematical and Statistical Psychology
+    BJP..        British Journal of Psychology
+    BlgAJ        Bulgarian Astronomical Journal
+    BlGJ.        Bulgarian Geophysical Journal
+    BlJMH        Bulgarian Journal of Meteorology and Hydrology
+    BlJPh        Bulgarian Journal of Physics
+    BlJPS        Bulgarian Journal of Physics Supplement
+    BlGeo        Bulgarska Akademiia Naukite Geofizichni Institut Izvestiia
+    BlTek        Bulgarska Akademiia Naukite Institut Tekhnicheska Kibernetika Izvestiia
+    BlSpi        Bulgarska Akademiia Naukite Spisanie
+    BlTse        Bulgarska Akademiia Naukite Tsentralna Laboratoriia Geodeziia Izvestiia
+    BlGSp        Bulgarsko Geofizichno Spisanie
+    BSAO.        Bull. Special Astrophys. Obs.
+    BSRSL        Bulletin de la Societe Royale des Sciences de Liege
+    BGeod        Bulletin Geodesique
+    BAN..        Bulletin of the Astronomical Institutes of the Netherlands
+    BANS.        Bulletin of the Astronomical Institutes of the Netherlands Supplement Series
+    BAICz        Bulletin of the Astronomical Institutes of Czechoslovakia
+    BASI.        Bulletin of the Astronomical Society of India
+    BLPI.        Bulletin of the Lebedev Physics Institute
+    BuLMS        Bulletin of the London Mathematical Society
+    BuSSA        The Bulletin of the Seismological Society of America
+    BMBio        Bulletin of Mathematical Biology
+    BPAS.        Bulletin of Pure and Applied Science (Physics)
+    BVol.        Bulletin of Volcanology
+    CMPNC        Cambridge Monographs on Particle Physics, Nuclear Physics and Cosmology
+    CMPPh        Cambridge Monographs on Plasma Physics
+2008LNP...760    The Cambridge N-Body Lectures
+    CASJ.        Canadian Aeronautics and Space Journal
+    CASJQ        Canadian Aeronautics and Space Journal Quarter
+    CEEJ.        Canadian Electrical Engineering Journal
+    CaGeJ        Canadian Geotechnical Journal
+    CJChE        Canadian Journal of Chemical Engineering
+    CaJCh        Canadian Journal of Chemistry
+    CaJCE        Canadian Journal of Civil Engineering
+    CaJES        Canadian Journal of Earth Sciences
+    CJECE        Canadian Journal of Electrical Computer Engineering
+    CJMat        Canadian Journal of Mathematics
+    CaJPh        Canadian Journal of Physics
+    CaJRS        Canadian Journal of Remote Sensing
+    CJRA.        Canadian Journal of Research Section A
+    CJSMT        Canadian Journal of Science Mathematics and Technology Education
+    CaJSS        Canadian Journal of Soil Science
+    CaRes        Cancer Research
+1994LNP...434    Canonical Gravity: From Classical to Quantum
+1991LNP...386    Capillarity Today
+    CarR.        Caries Research
+    CASI.        CASI Transactions
+    CatL.        Catalysis Letters
+    CarRv        Catalysis Reviews
+    Catt.        CATTECH
+    CeMec        Celestial Mechanics
+    CeMDA        Celestial Mechanics and Dynamical Astronomy
+    Cell.        Cell
+1984LNP...210    Cellular Structures in Instabilities
+    Cellu        Cellulose
+    Cent.        Centaurus
+1993LNP...413    Central Activity in Galaxies. From Observational Data to Astrophysical Diagnostics
+    CEAB.        Central European Astrophysical Bulletin
+    CEJPh        Central European Journal of Physics
+1991LNP...388    Challenges to Theories of the Structure of Moderate-Mass Stars
+2001LNP...574    Chance in Physics
+    Chaos        Chaos
+1995LNP...457    Chaos - The Interplay Between Stochastic and Deterministic Behaviour
+1992LNP...411    Chaos and Quantum Chaos
+2005LNP...683    Chaos and Stability in Planetary Systems
+1998LNP...511    Chaos, Kinetics and Nonlinear Dynamics in Fluids and Plasmas
+    CSF..        Chaos Solitons and Fractals
+1985LNP...217    Charge Density Waves in Solids
+    ChCom        Chemical Communications
+    ChEdu        Chemical Educator
+    ChEnC        Chemical Engineering Communications
+    ChEnN        Chemical Engineering News
+    CERDA        Chemical Engineering Research & Design. Part A, Transactions of the Institution of Chemical Engineers
+    ChEnS        Chemical Engineering Science
+    ChGeo        Chemical Geology
+    CP...        Chemical Physics
+    CPL..        Chemical Physics Letters
+    CPSS.        Chemical Physics of Solid Surfaces
+    CPSSH        Chemical Physics of Solid Surfaces and Heterogeneous Catalysis
+    CPR..        Chemical Physics Reports
+    ChSRv        Chemical Society Reviews
+    ChEG.        Chemie der Erde / Geochemistry
+    CEJ..        Chemistry A European Journal
+    CPCar        Chemistry and Physics of Carbon
+    CPLip        Chemistry and Physics of Lipids
+    ChOE.        China Ocean Engineering
+    ChA..        Chinese Astronomy
+    ChA&A        Chinese Astronomy and Astrophysics
+    ChIEJ        Chinese Institute of Engineers Journal
+    ChJA.        Chinese Journal of Aeronautics
+    ChJAA        Chinese Journal of Astronomy and Astrophysics
+    ChJAS        Chinese Journal of Astronomy and Astrophysics Supplement
+    ChJCP        Chinese Journal of Chemical Physics
+    ChJG.        Chinese Journal of Geophysics
+    ChJIR        Chinese Journal of Infrared Research
+    ChJL.        Chinese Journal of Lasers
+    ChJLB        Chinese Journal of Lasers B
+    CJLTP        Chinese Journal of Low Temperature Physics
+    ChJNP        Chinese Journal of Nuclear Physics
+    ChJOL        Chinese Journal of Oceanology and Limnology
+    ChJPh        Chinese Journal of Physics
+    ChJPR        Chinese Journal of Polar Research
+    ChJS.        Chinese Journal of Semiconductors
+    ChJSS        Chinese Journal of Space Science
+    ChOpL        Chinese Optics Letters
+    ChPhy        Chinese Physics
+    ChPhB        Chinese Physics B
+    ChPhC        Chinese Physics C
+    ChPhL        Chinese Physics Letters
+    ChSBu        Chinese Science Bulletin
+    ChSAJ        Chinese Society of Astronautics Journal
+    ChSMJ        Chinese Society of Mechanical Engineers Journal
+    ChSST        Chinese Space Science Technology
+1995LNP...452    Chiral Dynamics: Theory and Experiment
+    Ciel.        Le Ciel
+    C&E..        Ciel et Espace
+    C&T..        Ciel et Terre
+    CirW.        Circuit World
+    CSSP.        Circuits Systems and Signal Processing
+    CQGra        Classical and Quantum Gravity
+    CQGrS        Classical and Quantum Gravity Supplement
+1975LNP....33    Classical and Quantum Mechanical Aspects of Heavy Ion Collisions
+1984LNP...214    Classical, Discrete Spin Models: Symmetry, Duality and Renormalization
+    CRMMP        Classical Reviews in Mathematics and Mathematical Physics
+    CTPhy        Classical Theoretical Physics
+    ClDy.        Climate Dynamics
+    CliPa        Climate of the Past
+    CliPD        Climate of the Past Discussions
+    ClCh.        Climatic Change
+    COIR.        Clinical Oral Implants Research
+    CPPM.        Clinical Physics and Physiological Measurement
+2010caa..book    The Cluster Active Archive, Studying the Earth's Space Plasma Environment
+2004cgpc.symp    Clusters of Galaxies: Probes of Cosmological Structure and Galaxy Evolution
+    CNRAe        CNR Aeritalia S
+2004cbhg.symp    Coevolution of Black Holes and Galaxies
+2002LNP...611    Coherent Evolution in Noisy Environments
+2001LNP...567    Coherent Structures in Complex Systems
+    ColJ.        Colloid Journal
+    ColSu        Colloids and Surfaces
+    CPC..        Combinatorics, Probability and Computing
+    CoFl.        Combustion and Flame
+    CST..        Combustion Science and Technology
+    CTM..        Combustion Theory Modelling
+2004come.book    Comets II
+1988LNP...297    Comets to Cosmology
+    CPMCM        Commentationes Physico-Mathematicae et Chemico-Medicae
+    ComMP        Comments in Modern Physics
+    ComAp        Comments on Astrophysics
+    CoASP        Comments on Astrophysics and Space Physics
+    CoAMP        Comments on Atomic and Molecular Physics
+    ComSp        Commercial Space
+    CAPJ.        Communication Astronomy with the Public Journal
+    ComBr        Communication Broadcasting
+    CoSSC        Communication in Statistics - Simulation and Computation
+    CoSTM        Communication in Statistics - Theory and Methods
+    ComRv        The Communication Review
+    CoAlg        Communications in Algebra
+    CANM.        Communications in Applied Numerical Methods
+    CoAst        Communications in Asteroseismology
+    CCoPh        Communications in Computational Physics
+    CMaPh        Communications in Mathematical Physics
+    CNSNS        Communications in Nonlinear Science and Numerical Simulations
+    CNME.        Communications in Numerical Methods in Engineering
+    CoPDE        Communications in Partial Differential Equations
+    CPAM.        Communications in Pure Applied Mathematics
+    CoTPh        Communications in Theoretical Physics
+    CPhy.        Communications on Physics
+    CRLJ.        Communications Research Laboratory Journal
+    CRLRv        Communications Research Laboratory Review
+2006csxs.book    Compact stellar X-ray sources
+    Compe        COMPEL: The International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+1980LNP...126    Complex Analysis, Microlocal Calculus and Relativistic Quantum Theory
+1988LNP...311    Complex Differential Geometry and Supermanifolds in Strings and Fields:
+1993LNP...415    Complex Fluids
+2004LNP...650    Complex Netwokrks
+    CoVar        Complex Variables
+    CmpSt        Composite Structures
+    Compo        Composites
+    CmpEn        Composites Engineering
+    CmpMa        Composites Manufacturing
+    ComST        Composites Science Technology
+    CoMat        Compositio Mathematica
+    CRSPH        Compte Rendu des Seances de la Societe de Physique et d'Histoire Naturelle de Geneve
+    CR...        Comptes Rendus Academie des Sciences (serie non specifiee)
+    CRASE        Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science
+    CRGeo        Comptes Rendus Geoscience
+    CRMat        Comptes Rendus Mathematique
+    CRMec        Comptes Rendus Mecanique
+    CRPhy        Comptes Rendus Physique
+    CAMP.        Computational and Applied Mathematical Physics
+2008LNP...739    Computational Many-Particle Physics
+2004LNP...642    Computational Materials Science
+    CMMPh        Computational Mathematics and Mathematical Physics
+    CompM        Computational Mechanics
+1992LNP...409    Computational Methods in Field Theory
+    COA..        Computational Optimization and Applications
+1995LNP...448    Computational Physics
+    CS&D.        Computational Science and Discovery
+    CSMA.        Computational Structural Mechanics and Applications
+    Comp.        Computer
+    CGIP.        Computer Graphics Image Processing
+    CompJ        The Computer Journal
+1985LNP...227    Computer Methods and Borel Summability Applied to Feigenbaum's Equation
+    CMAME        Computer Methods in Applied Mechanics and Engineering
+    CoPhC        Computer Physics Communications
+    CoPhR        Computer Physics Reports
+    CSEd.        Computer Science Education
+1982LNP...166    Computer Simulation of Solids
+    CS&L.        Computer Speech & Language
+    CVIU.        Computer Vision and Image Understanding
+    CVGIP        Computer Vision Graphics and Image Processing
+    CAD..        Computer-Aided Design
+    CBR..        Computers and Biomedical Research
+    CEE..        Computers and Electrical Engineering
+    CF...        Computers and Fluids
+    CG...        Computers and Geosciences
+    CMwA.        Computers and Mathematics with Applications
+    CoStr        Computers and Structures
+    ComPh        Computers in Physics
+    Compu        Computing
+1984LNP...215    Computing in Accelerator Design and Operation
+    CSE..        Computing in Science and Engineering
+    ComSE        Computing Systems in Engineering
+    CMPhy        Condensed Matter Physics
+    CGDAM        Conformal Geometry and Dynamics of the American Mathematical Society
+1986LNP...261    Conformal Groups and Related Symmetries Physical Results and Mathematical Background
+2002LNP...604    The Conformal Structure of Space-Time
+    ConSc        Connection Science
+1989LNP...336    Consistent Classical Supergravity Theories
+1982LNP...169    Constrained Dynamics
+1995LNP...446    Constructive Physics Results in Field Theory, Statistical Mechanics and Condensed Matter Physics
+    ConCP        Contemporary Concepts in Physics
+    ConFP        Contemporary Fundamental Physics
+1997LNP...482    Contemporary Nuclear Shell Models
+    ConPh        Contemporary Physics
+    CSR..        Continental Shelf Research
+2001LNP...568    Continuous and Discontinuous Modelling of Cohesive-Frictional Materials
+    CMT..        Continuum Mechanics and Thermodynamics
+    CoSka        Contributions of the Astronomical Observatory Skalnate Pleso
+    CoSkS        Contributions of the Astronomical Observatory Skalnate Pleso Supplement
+    ConAP        Contributions to Atmospheric Physics/Beitraege zur Physik Atmosphaere
+    CoGG.        Contributions to Geophysics and Geodesy
+    CoMP.        Contributions to Mineralogy and Petrology
+    CoCom        Control and Computers
+1984LNP...193    Cool Stars, Stellar Systems, and the Sun
+1986LNP...254    Cool Stars, Stellar Systems and the Sun
+1987LNP...291    Cool Stars, Stellar Systems and the Sun
+    CorRe        Coral Reefs
+1995LNP...444    Coronal Magnetic Energy Releases
+1997LNP...483    Coronal Physics from Radio and Space Observations
+2005LNP...664    Cosmic Magnetic Fields
+    CosRe        Cosmic Research
+2002LNP...592    Cosmological Crossroads
+    CTP..        Course of Theoretical Physics
+2002LNP...591    CP Violation in Particle, Nuclear, and Astrophysics
+    CRB..        C.R. Acad. Sci. Ser. B1
+1983LNP...186    Critical Phenomena
+    CRSSM        Critical Reviews in Solid State & Materials Sciences
+    Cryo.        Cryogenics
+    TCD..        The Cryosphere Discussions
+    CryRp        Crystallography Reports
+    CSSE.        Cultural Studies of Science Education
+    CuCo.        Culture and Cosmos
+    CAP..        Current Applied Physics
+    CEyeR        Current Eye Research
+    CNan.        Current Nanoscience
+    COSSM        Current Opinion in Solid State and Materials Science
+2003LNP...617    Current Trends in Relativistic Astrophysics
+    CySys        Cybernetics and Systems
+    CzJPh        Czechoslovak Journal of Physics
+    CzJPS        Czechoslovak Journal of Physics Supplement
+    CzMJ.        Czechoslovak Mathematical Journal
+    DTr..        Dalton Transactions
+2009LNP...665    Data Analysis in Cosmology
+    DMKD.        Data Mining and Knowledge Discovery
+    DatSJ        Data Science Journal
+2003LNP...633    Decoherence and Entropy in Complex Systems
+2000LNP...538    Decoherence: Theoretical, Experimental, and Conceptual Problems
+    DSRI.        Deep Sea Research Part I: Oceanographic Research
+    DSR..        Deep Sea Research Part II: Topical Studies in Oceanography
+1981LNP...146    Deep Water Gravity Waves: On the Simpler Aspects of Nonlinear Fluctuating (Weak Interaction Theory)
+1980LNP...117    Deep-Inelastic and Fusion Reactions with Heavy Ions
+1983LNP...175    Defect Complexes in Semiconductor Structures
+    Defek        Defektoskopiia
+    DefEl        Defense Electronics
+    DMJ..        Defense Management Journal
+    DeScE        Defense Science Electronics
+    DSJ..        Defense Science Journal
+1999LNP...528    Density-Matrix Renormalization, a New Numerical Method in Physics
+1983LNP...178    Detectors in Heavy-Ion Reactions
+    DeHyZ        Deutsche Hydrographische Zeitschrift
+    DPhyG        Deutsche Physikalische Gesellschaft
+    DSEG.        Developments in Solid Earth Geophysics
+    DRM..        Diamond And Related Materials
+1981LNP...139    Differential Geometric Methods in Mathematical Physics
+1991LNP...375    Differential Geometric Methods in Theoretical Physics
+1991LNP...379    Differential Geometry, Group Representations, and Quantization
+1994LNP...438    Diffusion Processes: Experiment, Theory, Simulations
+    DSP..        Digital Signal Processing
+2005LNP...666    Digital Simulation in Electrochemistry
+1989LNP...349    Dimensional Reduction of Gauge Theories, Spontaneous Compactification and Model Building
+    Dimen        Dimensions
+1989LNP...348    Dirac Kets, Gamow Vectors and Gel'fand Triplets: The Rigged Hilbert Space Formulation of Quantum Mechanics
+2003LNP...632    Direct and Inverse Methods in Nonlinear Evolution Equations
+1989LNP...338    Directed Models of Polymers, Interfaces, and Clusters
+    DCMP.        Directions in Condensed Matter Physics
+2001LNP...561    Directions in Quantum Optics
+    Disc.        Discover
+2004LNP...644    Discrete Integrable Systems
+1996LNP...465    Disks and Outflows Around Young Stars
+1981LNP...149    Disordered Systems and Localization
+    DImTe        Display Imaging Technology
+    Displ        Displays
+    DSE..        Distributed Systems Engineering
+    Dlib.        D-Lib Magazine
+    DokES        Doklady Earth Sciences
+    DokPC        Doklady Physical Chemistry
+    DorPo        Dornier Post
+2004LNP...639    Dual Superconductor Models of Color Confinement
+2007ESASP.643    Dust in Planetary Systems
+1983LNP...179    Dynamical System and Chaos
+    DySys        Dynamical Systems: An International Journal
+1999LNP...518    Dynamical Systems, Plasmas and Gravitation
+1975LNP....38    Dynamical Systems, Theory and Applications
+    DynCo        Dynamics and Control
+    DSSys        Dynamics and Stability of Systems
+1990LNP...355    Dynamics and Stochastic Processes Theory and Applications
+2002LNP...602    Dynamics and Thermodynamics of Systems with Long-Range Interactions
+    DyAtO        Dynamics of Atmospheres and Oceans
+2002LNP...597    Dynamics of Dissipation
+2006LNP...682    Dynamics of Extended Celestial Bodies and Rings
+1984LNP...207    Dynamics of First-Order Phase Transitions in Equilibrium and Nonequilibrium Systems
+1982LNP...158    Dynamics of Nuclear Fission and Related Collective Phenomena
+1986LNP...256    Dynamics of Wave Packets in Molecular and Nuclear Physics
+2004LNP...646    The Early Universe and Observational Cosmology
+    EESC.        Earth and Environmental Science Conference Series
+    EaEvS        Earth and Evolution Sciences
+    EExSc        Earth and Extraterrestrial Sciences
+    E&PSL        Earth and Planetary Science Letters
+    E&S..        Earth in Space
+    EaInt        Earth Interactions
+    EM&P.        Earth Moon and Planets
+    EP&S.        Earth, Planets, and Space
+    ESRv.        Earth Science Reviews
+    ESPL.        Earth Surface Processes and Landforms
+    ESD..        Earth System Dynamics
+    ESDD.        Earth System Dynamics Discussion
+    ESSD.        Earth System Science Data
+    ESSDD        Earth System Science Data Discussions
+    EOAST        Earth-Oriented Applications and Space Technology
+    EEEV.        Earthquake Engineering and Engineering Vibration
+    EaSci        Earthquake Science
+    EGHel        Eclogae Geologicae Helvetiae
+    Ecogr        Ecography
+    Earth        eEarth
+    EartD        eEarth Discussions
+1975LNP....40    Effective Interactions and Operators in Nuclei
+1985LNP...220    Effective Lagrangians in Quantum Electrodynamics
+2000LNP...540    Einstein's Field Equations and Their Physical Implications
+    EJSM.        e-Journal of Soft Materials
+    Elast        Elastic
+    EMPS.        Electric Machines and Power Systems
+    ECLRv        Electrical Communication Laboratories Review
+    JElEn        Electrical Engineering of Japan
+1977LNP....61    Electro- and Photonuclear Reactions
+    EOSD.        Electro Optical Systems Design
+2007lsc..conf    Electromagnetic & Light Scattering
+2003elst.conf    Electromagnetic and Light Scattering - Theory and Applications VII
+2002elsn.conf    Electromagnetic and Light Scattering by Nonspherical Particle
+    Elecm        Electromagnetics
+1985LNP...234    Electron and Photon Interactions at Intermediate Energies
+1987LNP...283    Electronic Band Structure and Its Applications
+    EJSEd        Electronic Journal of Science Education
+    EJSta        Electronic Journal of Statistics
+    EJTP.        Electronic Journal of Theoretical Physics
+    ElPro        Electronic Progress
+1997ASSL..224    Electronic Publishing for Physics and Astronomy
+2000LNP...535    Electronic Structure and Physical Properties of Solids. The Use of the LMTO Method
+    JElCo        Electronics Communications of Japan
+    ElL..        Electronics Letters
+    ElP..        Electronics Power
+    ElLC.        Electrotechnical Laboratory Circulars
+    ElLR.        Electrotechnical Laboratory Researches
+    ElBah        Elektrische Bahnen
+    E&E..        Elektromashinostroenie i Elektrooborudovanie
+    Elem.        Elektromekhanika
+    Elek.        Elektronika
+    ElTA.        Elektronnaia Tekhnika Avtomatike
+    ElMod        Elektronnoe Modelirovanie
+    E&M..        Elektrotechnik und Maschinenbau
+    EVest        Elektrotehniski Vestnik
+2009LNP...783    Elements of Numerical Relativity and Relativistic Hydrodynamics
+    EMBO.        The EMBO Journal
+    EMCT.        EMC Technology
+    EBBT.        Emerging Biochemical and Biophysical Techniques
+    Endvr        Endeavour
+    Energ        Energetika
+    EnAt.        Energia es Atomtechnika
+    EnUK.        Energy
+    E&ESc        Energy & Environmental Science
+    EnC..        Energy Conversion
+2003LNP...612    Energy Conversion and Particle Acceleration in the Solar Corona
+    ECM..        Energy Conversion Management
+    EnS..        Energy Sources
+    EnTR.        Energy Technology Review
+    EngAn        Engineering Analysis
+    EnSci        Engineering and Science
+    EngCo        Engineering Computations
+    EnFM.        Engineering Fracture Mechanics
+    EnOp.        Engineering Optimization
+    CEnTp        Engineering Thermophysics China
+2009LNP...768    Entanglement and Decoherence
+    Entro        Entropie
+    Entrp        Entropy
+    EnAPC        Environmental Analytical and Physical Chemistry Series
+    EES..        Environmental Earth Sciences
+    EnEng        Environmental Engineering
+    EFM..        Environmental Fluid Mechanics
+    EnGeo        Environmental Geology
+    EnMan        Environmental Management
+    EnP..        Environmental Pollution Series B Chemical and Physical
+    ER...        Environmental Research
+    ERL..        Environmental Research Letters
+    EnST.        Environmental Science Technology
+    EnTox        Environmental Toxicology
+    ETWQ.        Environmental Toxicology and Water Quality
+    Env..        Environmentrics
+    ErNW.        Ergebnisse der exakten Naturwissenschaften
+1994LNP...430    Ergodic Concepts in Stellar Dynamics
+    ETDS.        Ergodic Theory and Dynamical Systems
+    Ergo.        Ergonomics
+    ESAJ.        ESA Journal
+    ECSS.        Estuarine Coastal and Shelf Science
+    EurSS        Eurasian Soil Science
+    EJASP        EURASIP Journal on Applied Signal Processing
+    EBioJ        European Biophysics Journal
+    EJAM.        European Journal of Applied Mathematics
+    EJBio        European Journal of Biochemistry
+    EJC..        European Journal of Combinatorics
+    EJEE.        European Journal of Engineering Education
+    EJMF.        European Journal of Mechanics B Fluids
+    EJMS.        European Journal of Mechanics Solids
+    EJPh.        European Journal of Physics
+1997LNP...489    European Meeting on Solar Physics
+    EPJA.        European Physical Journal A
+    EPJAS        European Physical Journal A Supplement
+    EPJAP        European Physical Journal Applied Physics
+    EPJB.        European Physical Journal B
+    EPJC.        European Physical Journal C
+    EPJCS        European Physical Journal C Supplement
+    EPJD.        European Physical Journal D
+    EPJE.        European Physical Journal E
+    EPJP.        European Physical Journal Plus
+    EPJST        European Physical Journal Special Topics
+    EuRv.        European Review
+    ESN..        European Science Notes
+    EL...        Europhysics Letters
+    ENews        Europhysics News
+2004LNP...651    The Euroschool Lectures on Physics with Exotic Beams
+2009LNP...764    Euroschool Lectures on Physics with Exotic Beams
+1989LNP...333    Evolution of Galaxies: Astronomical Observations
+1985LNP...242    Exactly Solvable Problems in Condensed Matter and Relativistic Field Theory
+    ExA..        Experimental Astronomy
+    EEyeR        Experimental Eye Research
+    ExHT.        Experimental Heat Transfer
+    ExM..        Experimental Mechanics
+    ExMPS        Experimental Methods in the Physical Sciences
+1978LNP....83    Experimental Methods in Heavy Ion Physics
+1987LNP...288    Experimental, Numerical and Theoretical Solid Mechanics
+    ExT..        Experimental Techniques
+    ExTFS        Experimental Thermal Fluid Science
+    ExFl.        Experiments in Fluids
+    ExG..        Exploration Geophysics
+2003LNP...607    Exploring the Atmosphere by Remote Sensing Techniques
+2004LNP...641    Extended Density Functionals in Nuclear Structure Physics
+1988LNP...298    F' Centers in Alkali Halides
+1988LNP...319    Far from Equilibrium Phase Transitions
+    FaDi.        Faraday Discussions
+    FaTr.        Faraday Transactions
+    FFEMS        Fatigue and Fracture of Engineering Materials and Structures
+    F&M..        Feinwerktechnik und Messtechnik
+1989LNP...326    Feldtheoretische Beschreibung der Thermodynamik für Grenzflächen
+2008LNP...728    The Fermi-Pasta-Ulam Problem
+    Fer..        Ferroelectrics
+    FerLS        Ferroelectrics Letters Section
+2002LNP...594    Ferrofluids: Magnetically Controllable Fluids and Their Applications
+1978LNP....86    Few Body Systems and Electromagnetic Interactions
+1978LNP....82    Few Body Systems and Nuclear Forces I
+1978LNP....87    Few Body Systems and Nuclear Forces II
+    FBS..        Few-Body Systems
+1988LNP...295    Feynman-Graphen und Eichtheorien für Experimentalphysiker
+    FiIO.        Fiber and Integrated Optics
+1977LNP....67    Fiber Bundle Techniques in Gauge Theories
+1986LNP...246    Field Theory, Quantum Gravity and Strings
+1987LNP...280    Field Theory, Quantum Gravity and Strings II
+1977LNP....66    Fields, Particles and Currents
+    Filom        Filomat
+    FiBr.        First Break
+    FizEl        Fizicheskaia Elektronika
+    FiMek        Fizicheskaia Mekhanika
+    Fiz..        Fizika
+    FizA.        Fizika A
+    FizAS        Fizika Aerodispersnykh Sistem
+    FizB.        Fizika B
+    FizGV        Fizika Goreniia i Vzryva
+    FizKO        Fizika i Khimiia Obrabotki Materialov
+    FizTV        Fizika i Tekhnika Vysokikh Davlenii
+    FizMM        Fizika Metallov i Metallovedenie
+    FizMS        Fizika Mnogochastichnykh Sistem
+    FizNT        Fizika Nizkikh Temperatur
+    FizPl        Fizika Plazmy
+    FizTT        Fizika Tverdogo Tela
+    FizZS        Fizika Zhidkogo Sostoianiia
+    FizAt        Fiziki Atmosfery
+    FizKM        Fiziko Khimicheskaia Mekhanika Materialov
+    FizCh        Fizyki i Chemii Seria Fizyka
+1991LNP...387    Flare Physics in Solar Activity Maximum 22
+1985LNP...235    Flow of Real Fluids
+    FNL..        Fluctuation and Noise Letters
+1987LNP...268    Fluctuations and Stochastic Phenomena in Condensed Matter
+    FlDy.        Fluid Dynamics
+    FlDyR        Fluid Dynamics Research
+    FlDyT        Fluid Dynamics Transactions
+1980LNP...121    Fluid Flow Through Porous Macromolecular Systems
+2001LNP...566    Fluid Mechanics and the Environment: Dynamical Approaches
+    FlMSR        Fluid Mechanics Soviet Research
+1988LNP...304    Fluides hétérogènes et réactifs: écoulements et transferts
+    Fluid        Fluidika
+    FluQ.        Fluids Quarterly
+1990LNP...364    Folded-Diagram Theory of the Effective Interaction in Nuclei
+    FBP..        Food and Bioproducts Processing. Part C, Transactions of the Institution of Chemical Engineers
+    F&I..        Forschung im Ingenieurwesen
+    F&IER        Forschung im Ingenieurwesen Engineering Research
+    ForPh        Fortschritte der Physik
+1984LNP...213    Forward Electron Ejection in Ion Collisions
+    FoGeo        Fotointerpretacja w Geografii
+    FoPh.        Foundations of Physics
+    FoPhL        Foundations of Physics Letters
+1974LNP....29    Foundations of Quantum Mechanics and Ordered Linear Spaces
+1985LNP...238    Free-Lagrange Methods
+    Freq.        Frequenz
+2000LNP...556    From the Sun to the Great Attractor
+1981LNP...137    From Collective States to Quarks in Nuclei
+    FrPhy        Frontiers in Physics
+1988LNP...296    Frontiers of Particle Beams
+1994LNP...425    Frontiers of Particle Beams: Factories with e+ e- Rings
+1992LNP...400    Frontiers of Particle Beams: Intensity Limitations
+1989LNP...343    Frontiers of Particle Beams; Observation, Diagnosis and Correction
+    FrPhC        Frontiers of Physics in China
+    FST..        Fullerene Science and Technology
+    FAAp.        Functional Analysis and Its Applications
+    FACM.        Functiones et Approximatio Commentarii Mathematici
+    FInfo        Fundamenta Informaticae
+    FANP.        Fundamental and Applied Nuclear Physics Series
+    FTP..        Fundamental Theories of Physics
+    FCPh.        Fundamentals of Cosmic Physics
+1985LNP...229    Fundamentals of Laser Interactions
+1989LNP...339    Fundamentals of Laser Interactions II
+1987LNP...282    Fundamentals of Quantum Optics II
+1985LNP...219    Fusion Reactions Below the Coulomb Barrier
+    Futur        Future Spring
+1994LNP...433    Galactic Dynamics and N-Body Simulations
+1993LNP...418    Galactic High-Energy Astrophysics. High-Accuracy Timing and Positional Astronomy
+2003LNP...626    Galaxies and Chaos
+1995LNP...463    Galaxies in the Young Universe
+    GalEl        Galilean Electrodynamics
+    GEB..        Games and Economic Behavior
+1980LNP...134    γγ Collisions
+1983LNP...188    Gauge Symmetries and Fibre Bundles: Applications to Particle Dynamics
+1982LNP...159    Gauge Theories as a Problem of Constructive Quantum Field Theory and Statistical Mechanics
+1983LNP...181    Gauge Theories of the Eighties
+1983LNP...176    Gauge Theory and Gravitation (G & G)
+1983LNP...174    Gauge Theory of Dislocations and Disclinations
+    GazT.        Gazodinamika i Teploobmen
+    GECJR        GEC Journal Research
+    Gelio        Geliotekhnika
+    GHA..        General History of Astronomy
+    GPB..        General Physiology AND Biophysics
+    GReGr        General Relativity and Gravitation
+    Gen..        Genetica
+    GeoIn        Geocarto International
+    GeocJ        Geochemical Journal
+    Geoch        Geochemistry
+    GGG..        Geochemistry, Geophysics, Geosystems
+    GeocI        Geochemistry International
+    GeCoA        Geochimica et Cosmochimica Acta
+    GeCAS        Geochimica et Cosmochimica Acta Supplement
+    GeCar        Geodesy and Cartography
+    GeAer        Geodeziia i Aerofotos
+    GeKar        Geodeziia i Kartografiia
+    GeKaA        Geodeziia Kartografiia i Aerofotos
+    GeoK.        Geodezja i Kartografia
+    GeoAc        Geodinamica Acta
+    GeofI        Geofisica Internacional
+    GeoPA        Geofisica Pura e Applicata
+    GeoSb        Geofizicheskii Sbornik
+    GeoZh        Geofizicheskii Zhurnal
+    GeoAA        Geografiska Annaler, Series A: Physical Geography
+    GeoAB        Geografiska Annaler, Series B: Human Geography
+    Geokh        Geokhimiia
+    GCarp        Geologica Carpathica
+    GeolJ        Geological Journal
+    GeoM.        Geological Magazine
+    GeoSJ        Geological Society Journal
+    GSAMm        Geological Society of America Memoir
+    GSASP        Geological Society of America Special Papers
+    Geolo        Geologija
+    GeoRu        Geologische Rundschau
+    Geolg        Geologos
+    Geo..        Geology
+    GeoOD        Geology of Ore Deposits
+    Ge&Ae        Geomagnetism and Aeronomy/Geomagnetizm i Aeronomiia
+    GeoIs        Geomagnitnye Issledovaniia
+    GML..        Geo-Marine Letters
+    GeoD.        Geometriae Dedicata
+1993LNP...424    Geometric and Quantum Aspects of Integrable Systems
+2005LNP...668    Geometric and Topological Methods for Quantum Field Theory
+1985LNP...239    Geometric Aspects of the Einstein Equations and Integrable Systems
+1980LNP...129    Geometrical and Topological Methods in Gauge Theories
+2000LNP...543    Geometry and Quantum Physics
+1981LNP...140    Geometry of the Time-Dependent Variational Principle in Quantum Mechanics
+1988LNP...302    Geometry of Supersymmetric Gauge Theories: Including an Introduction to BRS Differential Algebras and Anomalies
+    GeomJ        Geomicrobiology Journal
+2001LNP...582    Geomorphological Fluid Mechanics
+    Geomo        Geomorphology
+    Geoph        Geophysica
+    GeGe.        Geophysica et Geodaetica
+    GeoNr        Geophysica Norvegica
+    GApFD        Geophysical and Astrophysical Fluid Dynamics
+    GeoJ.        Geophysical Journal
+    GeoJI        Geophysical Journal International
+    GeopP        Geophysical Prospecting
+    GeopR        Geophysical References
+    GeoRL        Geophysical Research Letters
+    Geop.        Geophysics
+    GAM..        Geophysics and Astrophysics Monographs
+    GMD..        Geoscientific Model Development
+    GMDD.        Geoscientific Model Development Discussions
+2006LNP...687    Geospace Electromagnetic Waves and Radiation
+    Geote        Geotectonics
+    Geoth        Geothermics
+    GBzG.        Gerlands Beitraege zur Geophysik
+    Gidro        Gidromekhanika
+    GiSan        Gigiena i Sanitariia
+    GlMaJ        Glasgow Mathematical Journal
+    GPC..        Global and Planetary Change
+    GBioC        Global Biogeochemical Cycles
+1996LNP...460    Global Structure and Evolution in General Relativity
+2003LNP...624    Granular Gas Dynamics
+2001LNP...564    Granular Gases
+    GMIP.        Graphical Models and Image Processing
+    GrCo.        Gravitation and Cosmology
+    GrCoS        Gravitation and Cosmology Supplement
+1984LNP...212    Gravitation, Geometry and Relativistic Physics
+1989LNP...330    Gravitational Lenses
+1992LNP...406    Gravitational Lenses
+1990LNP...360    Gravitational Lensing
+2002LNP...608    Gravitational Lensing: An Astrophysical Tool
+1980LNP...124    Gravitational Radiation, Collapsed Objects and Exact Solutions
+    GGMM.        Greenhouse Gas Measurement & Management
+1977LNP....60    Group Analysis of Classical Lattice Systems
+1978LNP....79    Group Theoretical Methods in Physics
+1983LNP...180    Group Theoretical Methods in Physics
+1984LNP...201    Group Theoretical Methods in Physics
+1988LNP...313    Group Theoretical Methods in Physics
+1991LNP...382    Group Theoretical Methods in Physics
+    GrAeH        Grumman Aerospace Horizons
+    Grund        Grundwasser
+2001LNP...562    Gyros, Clocks, Interferometers ...: Testing Relativistic Gravity in Space
+1975LNP....42    H II regions and related topics
+1985LNP...231    Hadrons and Heavy Ions
+1999LNP...516    Hadrons in Dense Matter and Hadrosynthesis
+1977LNP....63    Harmonic Analysis: on the n-Dimensional Lorentz Group and Its Application to Conformal Quantum Field Theory
+    HeaPh        Health Physics
+    HMT..        Heat and Mass Transfer
+    HTrEn        Heat Transfer Engineering
+    HTJR.        Heat Transfer Japanese Research
+    HTSR.        Heat Transfer Soviet Research
+1988LNP...317    Heavy Ion Interactions Around the Coulomb Barrier
+2004LNP...647    Heavy Quark Physics
+1982LNP...168    Heavy-Ion Collisions
+    HMR..        Helgoland Marine Research
+    HWM..        Helgoländer Wissenschaftliche Meeresuntersuchungen
+    AcHCh        Helvetica Chimica Acta
+    AcHPh        Helvetica Physica Acta
+    AcHPS        Helvetica Physica Acta Supplementum
+    HECh.        High Energy Chemistry
+    HEDP.        High Energy Density Physics
+2005etsm.conf    High Energy Gamma-ray Experiments
+    HEPNP        High Energy Physics and Nuclear Physics
+2002LNP...595    High Magnetic Fields
+    HPP..        High Performance Polymers
+    HPR..        High Pressure Research
+1985LNP...233    High Resolution in Solar Physics
+    HiTec        High Technology
+    HTemS        High Temperature Science
+    HTHP.        High Temperatures and High Pressures
+1988LNP...294    High-Energy Ion-Atom Collisions
+1991LNP...376    High-Energy Ion-Atom Collisions
+    HSPBS        Historical Studies in the Physical and Biological Sciences
+    HisSc        History of Science
+    Holz.        Holzforschung
+1987LNP...272    Homogenization Techniques for Composite Media
+2009LNP...757    Homological Mirror Symmetry: New Developments and Perspectives
+    HBB..        Horizons in Biochemistry and Biophysics
+    HWP..        Horizons in World Physics
+1989LNP...327    Hot Spots in Extragalactic Radio Sources
+    HCHy.        Hovering Craft and Hydrofoil
+    HGT..        Human Gene Therapy
+    HvaOB        Hvar Observatory Bulletin
+    HvOBS        Hvar Observatory Bulletin Supplement
+    HyBio        Hydrobiologia
+2001LNP...570    The Hydrogen Atom: Precision Physics of Simple Atomic Systems
+    HydJ.        Hydrogeology Journal
+    HyPr.        Hydrological Processes
+    HESS.        Hydrology and Earth System Sciences
+    HESSD        Hydrology and Earth System Sciences Discussions
+    HyInt        Hyperfine Interactions
+    IadEn        Iadernaia Energiia
+1988LNP...305    IAU Colloq. 108: Atmospheric Diagnostics of Stellar Evolution
+1989LNP...328    IAU Colloq. 114: White Dwarfs
+1990LNP...363    IAU Colloq. 117: Dynamics of Quiescent Prominences
+1989LNP...350    IAU Colloq. 120: Structure and Dynamics of the Interstellar Medium
+1990LNP...369    IAU Colloq. 122: Physics of Classical Novae
+1991LNP...380    IAU Colloq. 130: The Sun and Cool Stars. Activity, Magnetism, Dynamos
+1992LNP...399    IAU Colloq. 133: Eruptive Solar Flares
+1994LNP...428    IAU Colloq. 146: Molecules in the Stellar Environment
+1995LNP...454    IAU Colloq. 151: Flares and Flashes
+1998LNP...506    IAU Colloq. 166: The Local Bubble and Beyond
+1999LNP...523    IAU Colloq. 169: Variable and Non-spherical Stellar Winds in Luminous Hot Stars
+1980LNP...114    IAU Colloq. 51: Stellar Turbulence
+1986LNP...255    IAU Colloq. 89: Radiation Hydrodynamics in Stars and Compact Objects
+    Icar.        Icarus
+    JMOA.        IEE Journal of Microwaves Optics and Acoustics
+    JSSED        IEE Journal of Solid-State Electron Devices
+    IEERv        IEE Reviews
+    IAWPL        IEEE Antennas and Wireless Propagation Letters
+    IAPM.        IEEE Antennas Propagation Magazine
+    ICiSM        IEEE Circuits Systems Magazine
+    IComM        IEEE Communications Magazine
+    ICSEn        IEEE Computational Science and Engineering
+    ICGA.        IEEE Computer Graphics Applications
+    ICSM.        IEEE Computer Systems Magazine
+    IDTC.        IEEE Design Test Computers
+    IEDL.        IEEE Electron Device Letters
+    IExp.        IEEE Expert
+    IGRSL        IEEE Geoscience and Remote Sensing Letters
+    IISys        IEEE Intelligent Systems
+    IJOE.        IEEE Journal of Oceanic Engineering
+    IJQE.        IEEE Journal of Quantum Electronics
+    IJRA.        IEEE Journal of Robotics Automation
+    ISTSP        IEEE Journal of Selected Topics in Signal Processing
+    IJSSC        IEEE Journal of Solid-State Circuits
+    IJSAC        IEEE Journal on Selected Areas in Communications
+    IMGWL        IEEE Microwave and Guided Wave Letters
+    IMMag        IEEE Microwave Magazine
+    IPTL.        IEEE Photonics Technology Letters
+    ISPL.        IEEE Signal Processing Letters
+    ISPM.        IEEE Signal Processing Magazine
+    ISysJ        IEEE Systems Journal
+    ITASS        IEEE Transactions on Acoustics Speech and Signal Processing
+    ITAES        IEEE Transactions on Aerospace Electronic Systems
+    ITAP.        IEEE Transactions on Antennas and Propagation
+    ITAS.        IEEE Transactions on Applied Superconductivity
+    ITAC.        IEEE Transactions on Automatic Control
+    ITBE.        IEEE Transactions on Biomedical Engineering
+    ITB..        IEEE Transactions on Broadcasting
+    ITCS.        IEEE Transactions on Circuits Systems
+    ITCom        IEEE Transactions on Communications
+    ITCHM        IEEE Transactions on Components Hybrids and Manufacturing Technology
+    ITCAD        IEEE Transactions on Computer Aided Design
+    ITCmp        IEEE Transactions on Computers
+    ITDEI        IEEE Transactions on Dielectrics and Electrical Insulation
+    ITEdu        IEEE Transactions on Education
+    ITEI.        IEEE Transactions on Electrical Insulation
+    ITElC        IEEE Transactions on Electromagnetic Compatibility
+    ITED.        IEEE Transactions on Electron Devices
+    ITEnC        IEEE Transactions on Energy Conversion
+    ITEM.        IEEE Transactions on Engineering Management
+    ITGRS        IEEE Transactions on Geoscience and Remote Sensing
+    ITGE.        IEEE Transactions on Geoscience Electronics
+    ITIP.        IEEE Transactions on Image Processing
+    ITIE.        IEEE Transactions on Industrial Electronics
+    ITIEC        IEEE Transactions on Industrial Electronics and Control Instrumentation
+    ITIA.        IEEE Transactions on Industry Applications
+    ITIT.        IEEE Transactions on Information Theory
+    ITIM.        IEEE Transactions on Instrumentation Measurement
+    ITM..        IEEE Transactions on Magnetics
+    ITMI.        IEEE Transactions on Medical Imaging
+    ITMTT        IEEE Transactions on Microwave Theory Techniques
+    ITME.        IEEE Transactions on Military Electronics
+    ITNan        IEEE Transactions on Nanotechnology
+    ITNN.        IEEE Transactions on Neural Networks
+    ITNS.        IEEE Transactions on Nuclear Science
+    ITPHP        IEEE Transactions on Parts Hybrids and Packaging
+    ITPAM        IEEE Transactions on Pattern Analysis and Machine Intelligence
+    ITPS.        IEEE Transactions on Plasma Science
+    ITPAS        IEEE Transactions on Power Apparatus Systems
+    ITPD.        IEEE Transactions on Power Delivery
+    ITPE.        IEEE Transactions on Power Electronics
+    ITR..        IEEE Transactions on Reliability
+    ITRA.        IEEE Transactions on Robotics Automation
+    ITSTQ        IEEE Transactions on Selected Topics in Quantum Electronics
+    ITSM.        IEEE Transactions on Semiconduct M
+    ITSP.        IEEE Transactions on Signal Processing
+    ITSE.        IEEE Transactions on Software Engineering
+    ITSU.        IEEE Transactions on Sonics Ultrasonics
+    ITSMC        IEEE Transactions on Systems Man and Cybernetics
+    ITUFF        IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control
+    ITVT.        IEEE Transactions on Vehicular Technology
+    ITEIS        IEEJ Transactions on Electronics, Information and Systems
+    IJTFM        IEEJ Transactions on Fundamentals and Materials
+    IJTIA        IEEJ Transactions on Industry Applications
+    IJTPE        IEEJ Transactions on Power and Energy
+    IJTSM        IEEJ Transactions on Sensors and Micromachines
+    IEIEE        IEICE Electronics Express
+    IEITC        IEICE Transactions on Communications
+    IEITE        IEICE Transactions on Electronics
+    IEITF        IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences
+    IEITI        IEICE Transactions on Information and Systems
+    ITN..        IERS Technical Note
+    IESJ.        IES Journal
+    JApMa        IMA Journal of Applied Mathematics
+    IJNA.        IMA Journal of Numerical Analysis
+    IVMA.        IMA Volumes in Mathematics and its Applications
+1980LNP...112    Imaging Processes and Coherence in Physics
+    IMEPA        IME Proceedings. Part A: Journal of Power and Energy
+    IMEPB        IME Proceedings. Part B: Journal of Engineering Manufacture
+    IMEPC        IME Proceedings. Part C: Journal of Mechanical Engineering Science
+    IMEPD        IME Proceedings. Part D: Journal of Automobile Engineering
+    IMEPE        IME Proceedings. Part E: Journal of Process Mechanical Engineering
+    IMEPG        IME Proceedings. Part G: Journal of Aerospace Engineering
+    IMEPH        IME Proceedings. Part H: Journal of Engineering in Medicine
+    IMEPI        IME Proceedings. Part I: Journal of Systems and Control Engineering
+    IMEPK        IME Proceedings. Part K: Journal of Multibody Dynamics
+    ICSE.        Impact of Computing in Science and Engineering
+2000LNP...551    Impacts in Mechanical Systems. Analysis and Modelling
+1998LNP...505    Impacts on Earth
+    InISJ        Indian Institute of Science Journal
+    InISA        Indian Institute of Science Journal of Aeronautical Society of India
+    ITJSE        Indian Institute of Technology Journal on Section Engineering Technology
+    IJMHG        Indian Journal of Meteorology Hydrology and Geophysics
+    InJPh        Indian Journal of Physics
+    InJP.        Indian Journal of Physics and Proceedings of the Indian Assocatiation for the Cultivation of Science
+    InJPA        Indian Journal of Physics Section A
+    InJPB        Indian Journal of Physics Section B
+    InJPS        Indian Journal of Physics Section B B
+    IJPAM        Indian Journal of Pure and Applied Mathematics
+    IJPAP        Indian Journal of Pure and Applied Physics
+    IJRSP        Indian Journal of Radio and Space Physics
+    InJTP        Indian Journal of Theoretical Physics
+    IDAQP        Infinite Dimensional Analysis, Quantum Probability and Related Topics
+2008LNP...738    Inflationary Cosmology
+    InCo.        Information and Computation
+    IBVS.        Information Bulletin on Variable Stars
+    InfCo        Information Control
+    InfD.        Information Display
+2000ASSL..250    Information Handling in Astronomy
+2003ASSL..285    Information Handling in Astronomy - Historical Vistas
+    IPM..        Information Processing and Management
+    IPL..        Information Processing Letters
+    IRA..        Infrared Astronomy
+1989LNP...341    Infrared Extinction and Standardization
+    InfPh        Infrared Physics
+    InPhT        Infrared Physics and Technology
+    IA&A.        Ingenieria Aeronautica y Astronautica
+    InCh.        Inorganic Chemistry
+    IMA..        Institute for Mathematics and Its Applications
+    InFuJ        Institute Fuel Journal
+    IEREJ        Institution of Electronic Radio Engineers Journal
+    IETE.        Institution of Electronics Telecommunication Engineers
+    IS&T.        Instrumentation Science & Technology
+    IET..        Instruments and Experimental Techniques
+2009LNP...767    Integrability
+1997LNP...495    Integrability of Nonlinear Systems
+2004LNP...638    Integrability of Nonlinear Systems
+1994LNP...436    Integrable Models and Strings
+1982LNP...151    Integrable Quantum Field Theories
+1989LNP...342    Integrable Systems and Applications
+1982LNP...157    Integral Equation Method in Transonic Flow
+    ITSF.        Integral Transforms and Special Functions
+    ICAE.        Integrated Computer-Aided Engineering
+    InFer        Integrated Ferroelectrics
+1993ASSL..182    Intelligent Information Retrieval: The Case of Astronomy and Related Space Sciences
+1982LNP...161    Interacting Bosons in Nuclei
+2001LNP...579    Interacting Electrons in Nanostructures
+2009LNP...756    Interdisciplinary Aspects of Turbulence
+    ARIJ.        An Interdisciplinary Journal of Physical and Engineering Sciences
+    IFB..        Interfaces and Free Boundaries
+2003LNP...628    Interfacial Fluid Dynamics and Transport Processes
+    I&DS.        Interlending & Document Supply
+    IANT.        International Advances in Nondestructive Testing
+    IAM..        International Applied Mechanics
+    ICHMT        International Communications in Heat and Mass Transfer
+    ICML.        International Conference on Machine Learning
+    IJCEM        International Journal for Computational Methods in Engineering Science and Mechanics
+    IJNAM        International Journal for Numerical and Analytical Methods in Geomechanics
+    IJNME        International Journal for Numerical Methods in Engineering
+    IJNMF        International Journal for Numerical Methods in Fluids
+    IJRPC        International Journal for Radiation Physics and Chemistry
+    IJACS        International Journal of Adaptive Control and Signal Processing
+    IJAdA        International Journal of Adhesion Adhesives
+    IJAEM        International Journal of Analytical and Experimental Modal Analysis
+    IJAEO        International Journal of Applied Earth Observation and Geoinformation
+    IJApE        International Journal of Applied Electromagnetics and Mechanics
+    IJAM.        International Journal of Applied Mechanics
+    IJAA.        International Journal of Astonomy and Astrophysics
+    IJAsB        International Journal of Astrobiology
+    IJAP.        International Journal of Aviation Psychology
+    IJBC.        International Journal of Bifurcation and Chaos
+    IJBB.        International Journal of Bioclimatology Biometeorology
+    IJBm.        International Journal of Biometeorology
+    IJCli        International Journal of Climatology
+    IJCES        International Journal of Computational Engineering Science
+    IJCFD        International Journal of Computational Fluid Dynamics
+    IJCA.        International Journal of Computer Applications
+    IJCMS        International Journal of Computer Mathematics Section B
+    IJCV.        International Journal of Computer Vision
+    IJC..        International Journal of Control
+    IJDM.        International Journal of Damage Mechanics
+    IJDE.        International Journal of Digital Earth
+    IJDF.        International Journal of Dynamics of Fluids
+    IJEaS        International Journal of Earth Sciences
+    IJE..        International Journal of Electronics
+    IJER.        International Journal of Energy Research
+    IJEFM        International Journal of Engineering and Fluid Mechanics Spring
+    IJES.        International Journal of Engineering Science
+    IJFa.        International Journal of Fatigue
+    IJFD.        International Journal of Fluid Dynamics
+    IJFr.        International Journal of Fracture
+    IJFE.        International Journal of Fusion Energy
+    IJGS.        International Journal of General Systems
+    IJGA.        International Journal of Geomagnetism and Aeronomy
+    IJGMM        International Journal of Geometric Methods in Modern Physics
+    IJGeo        International Journal of Geophysics
+    IJGNP        International Journal of Green Nanotechnology Physics and Chemistry
+    IJHFF        International Journal of Heat and Fluid Flow
+    IJHMT        International Journal of Heat and Mass Transfer
+    IJHSC        International Journal of High Speed Computing
+    IJHSE        International Journal of High Speed Electronics and Systems
+    IJHM.        International Journal of Hybrid Microelectronics Fall
+    IJHE.        International Journal of Hydrogen Energy
+    IJHy.        International Journal of Hyperthermia
+    IJIDF        International Journal of Image and Data Fusion
+    IJIG.        International Journal of Image and Graphics
+    IJIST        International Journal of Imaging Systems Technology
+    IJIE.        International Journal of Impact Engineering
+    IJIMW        International Journal of Infrared and Millimeter Waves
+    IJICS        International Journal of Intelligent Control and Systems
+    IJMSE        International Journal of Mars Science and Exploration
+    IJMSp        International Journal of Mass Spectrometry
+    IJMSI        International Journal of Mass Spectrometry and Ion Processes
+    IJMES        International Journal of Mathematical Education in Science and Technology
+    IJM..        International Journal of Mathematics
+    IJMS.        International Journal of Mechanical Sciences
+    IJMW.        International Journal of Mine Water
+    IJMM.        International Journal of Mini Microcomputers
+    IJMoS        International Journal of Modelling and Simulation
+    IJMPA        International Journal of Modern Physics A
+    IJMPB        International Journal of Modern Physics B
+    IJMPC        International Journal of Modern Physics C
+    IJMPD        International Journal of Modern Physics D
+    IJMPE        International Journal of Modern Physics E
+    IJMF.        International Journal of Multiphase Flow
+    IJN..        International Journal of Nanoscience
+    IJNT.        International Journal of Nanotechnology
+    IJNS.        International Journal of Neural Systems
+    IJNLM        International Journal of Non Linear Mechanics
+    IJNOP        International Journal of Nonlinear Optical Physics
+    IJNMH        International Journal of Numerical Methods for Heat & Fluid Flow
+    IJOpt        International Journal of Optics
+    IJOMS        International Journal of Oral and Maxillofacial Surgery
+    IJPRS        International Journal of Photogrammetry and Remote Sensing
+    IJPES        International Journal of Physical and Engineering Sciences
+    IJP..        International Journal of Plasticity
+    IJPM.        International Journal of Polymeric Materials
+    IJPG.        International Journal of Population Geography
+    IJPR.        International Journal of Production Research
+    IJQC.        International Journal of Quantum Chemistry
+    IJRAI        International Journal of Radiation Applications and Instrumentation D Nuclear Tracks and Radiation Measurements
+    IJRB.        International Journal of Radiation Biology
+    IJRQS        International Journal of Reliability, Quality and Safety Engineering
+    IJRS.        International Journal of Remote Sensing
+    IJRR.        International Journal of Robotics Research
+    IJSC.        International Journal of Satellite Communications
+    IJSME        International Journal of Science and Mathematics Education
+    IJSEd        International Journal of Science Education
+    IJSE.        International Journal of Solar Energy
+    IJSS.        International Journal of Solids and Structures
+    IJSSD        International Journal of Structural Stability and Dynamics
+    IJScA        International Journal of Supercomputer Applications
+    IJSyS        International Journal of Systems Science
+    IJTP.        International Journal of Theoretical Physics
+    IJT..        International Journal of Thermophysics
+    IJTJE        International Journal of Turbo Jet Engines
+    IMRv.        International Materials Reviews
+    IMeRv        International Metals Reviews
+    IREdu        International Review of Education
+    IRH..        International Review of Hydrobiology
+    IRNP.        International Review of Nuclear Physics
+    IRPC.        International Reviews in Physical Chemistry
+    ISBRv        International Space Business Review
+    IER..        Internationale Elektronische Rundschau
+    IMPA.        Interscience Monographs in Physics and Astronomy
+1989LNP...318    An Introduction to the Numerical Analysis of Spectral Methods
+1983LNP...183    Introduction to the Theory of Metastable and Unstable States
+2009LNP...779    Introduction to Conformal Field Theory
+2005LNP...660    Invariant Manifolds for Physical and Chemical Kinetics
+1978LNP....73    Invariant Wave Equations
+    InMat        Inventiones Mathematicae
+1993LNP...422    Inverse Problems in Mathematical Physics
+    IGeo.        Investigations in Geophysics
+2007LNP...720    The Invisible Universe: Dark Matter and Dark Energy
+    InFiZ        Inzhenerno Fizicheskii Zhurnal
+1982LNP...172    Ionic Liquids, Molten Salts and Polyelectrolytes
+    IonIs        Ionosfernye Issledovaniia
+    E&ES.        IOP Conference Series: Earth and Environmental Science
+    IrJST        Iranian Journal of Science Technology
+    IRETE        IRE Transactions on Education
+    IrAJ.        Irish Astronomical Journal
+    IrAJS        Irish Astronomical Journal Supplement
+1991LNP...385    Iron Line Diagnostics in X-ray Sources
+1998LNP...504    Irreversibility and Causality
+2003LNP...622    Irreversible Quantum Dynamics
+    Isis.        Isis. Journal of the History of Science Society
+2000LNP...548    ISO Survey of a Dusty Universe
+    IPBS.        Isotopes in the Physical and Biomedical Sciences
+    IsJT.        Israel Journal of Technology
+    ISRA.        ISRN Astronomy and Astrophysics
+    ISSIR        ISSI Scientific Reports Series
+    IST..        Issues in Science and Technology
+    ITCJ.        ITC Journal
+    ITUTJ        ITU Telecommunication Journal
+    IzAOP        Izvestiya Atmospheric and Oceanic Physics
+    IzMat        Izvestiya: Mathematics
+    IzPSE        Izvestiya Physics of the Solid Earth
+    JRE..        Jahrbuch der Radioaktivität und Elektronik
+2006LNP...688    Jamming, Yielding, and Irreversible Deformation in Condensed Matter
+    JaIMJ        Japan Institute of Metals Journal
+    JSASS        Japan Society of Aeronautical Space Sciences
+    JSAST        Japan Society of Aeronautical Space Sciences Transactions
+    JSAPJ        Japan Society of Air Pollution Journal
+    JSCMJ        Japan Society of Composite Materials Journal
+    JSLEJ        Japan Society of Lubrication Engineers Journal
+    JSMSJ        Japan Society of Materials Science Journal
+    JaJAP        Japanese Journal of Applied Physics
+    JJAPL        Japanese Journal of Applied Physics Letters B
+    JJAPR        Japanese Journal of Applied Physics Regular Papers Short Notes and Review Papers
+    JJAPS        Japanese Journal of Applied Physics Supplement
+    JaJAG        Japanese Journal of Astronomy and Geophysics
+    JMMPS        Japanese Magazine of Mineralogical and Petrological Sciences
+    JSMAJ        JASMA Japan Society of Microgravity Application Journal
+    JMeOp        Jemna Mechanika Optika
+    JenRv        Jena Review
+1996LNP...471    Jets from Stars and Galactic Nuclei
+2008LNP...742    Jets from Young Stars II
+2008LNP...754    Jets From Young Stars III
+2009LNP...793    Jets from Young Stars IV
+2009LNP...791    Jets From Young Stars V
+1993LNP...421    Jets in Extragalactic Radio Sources
+    JOM..        JOM - Journal of the Minerals, Metals and Materials Society
+    JAco.        Journal d'Acoustique
+    JCP..        Journal de Chimie Physique
+    JMec.        Journal de Mecanique
+    JMecA        Journal de Mecanique Appliquee
+    JMecT        Journal de Mecanique Theorique et Appliquee
+    JMTAS        Journal de Mecanique Theorique et Appliquee Supplement
+    JPhys        Journal de Physique
+    JPhyC        Journal de Physique Colloque
+    JPR..        Journal de Physique et le Radium
+    JPhy1        Journal de Physique I
+    JPhy2        Journal de Physique II
+    JPhy3        Journal de Physique III
+    JPhy4        Journal de Physique IV
+    JPhyL        Journal de Physique Lettres
+    JPhTA        Journal de Physique Theorique et Apliquee
+    JReAt        Journal de Recherches Atmospheriques
+    JO...        Journal des Observateurs
+    JHA..        Journal for the History of Astronomy
+    JHAS.        Journal for the History of Astronomy Supplement
+    JRAM.        Journal fur die reine und angewandte Mathematik
+    JAVSO        Journal of the American Association of Variable Star Observers (JAAVSO)
+    JAChS        Journal of the American Chemical Society
+    JAMS.        Journal of the American Mathematical Society
+    JASIS        Journal of the American Society for Information Science and Technology
+    JAWRA        Journal of the American Water Resources Association
+    JAnSc        Journal of the Astronautical Sciences
+    JASEg        Journal of the Astronomical Society of Egypt
+    JASWA        Journal of the Astronomical Society of Western Australia
+    JBAA.        Journal of the British Astronomical Association
+    JBAS.        Journal of the British Astronomical Society
+    JBIS.        Journal of the British Interplanetary Society
+    JElS.        Journal of the Electrochemical Society
+    JGSJ.        Journal of the Geodetic Society of Japan
+    JIISB        Journal of the Indian Institute of Science Section B Physical and Chemical Series
+    JIEEJ        Journal of The Institute of Electrical Engineers of Japan
+    JIMIA        Journal of the Institute of Mathematics and Its Applications
+    JIETE        Journal of the Institution of Electronics and Telecommunication Engineers
+    JLMS.        Journal of the London Mathematical Society
+    JORS.        Journal of the Operational Research Society
+    JOSAA        Journal of the Optical Society of America A
+    JOSA.        Journal of the Optical Society of America (1917-1983)
+    JOSAB        Journal of the Optical Society of America B Optical Physics
+    JPSJ.        Journal of the Physical Society of Japan
+    JPSJS        Journal of the Physical Society of Japan Supplement
+    JRASA        Journal of the Royal Aeronautical Society of London
+    JRASC        Journal of the Royal Astronomical Society of Canada
+    JRASN        Journal of the Royal Astronomical Society of New Zealand
+    JRCSE        Journal of the Royal College of Surgeons of Edinburgh
+    JRSSD        Journal of the Royal Statistical Society: Series D (The Statistician)
+    JSRP.        Journal of the Society for Radiological Protection
+    JSARA        Journal of the Southeastern Association for Research in Astronomy
+    JVSJ.        Journal of the Vacuum Society of Japan
+    JAE..        Journal of Acoustic Emission
+    JAMDS        Journal of Advanced Mechanical Design, Systems, and Manufacturing
+    JAMES        Journal of Advances in Modeling Earth Systems
+    JAerS        Journal of Aerosol Science
+    JAerE        Journal of Aerospace Engineering
+    JAerP        Journal of Aerospace Power
+    JAfES        Journal of African Earth Sciences
+    JAER.        Journal of Agricultural Engineering Research
+    JAS..        The Journal of Agricultural Science
+    JAir.        Journal of Aircraft
+    JAlg.        Journal of Algebra
+    JAlgC        Journal of Algebraic Combinatorics
+    JAlgo        Journal of Algorithms
+    JAllC        Journal of Alloys and Compounds
+    JAAS.        Journal of Analytical Atomic Spectrometry
+    JApCr        Journal of Applied Crystallography
+    JApEl        Journal of Applied Electrochemistry
+    JAG..        Journal of Applied Geophysics
+    JApMM        Journal of Applied Mathematics and Mechanics
+    JAM..        Journal of Applied Mechanics
+    JAMTP        Journal of Applied Mechanics and Technical Physics
+    JApMw        Journal of Applied Metalworking
+    JApMe        Journal of Applied Meteorology
+    JApMC        Journal of Applied Meteorology and Climatology
+    JAPE.        Journal of Applied Photographic Engineering
+    JAP..        Journal of Applied Physics
+    JAPh.        Journal of Applied Physiology
+    JARS.        Journal of Applied Remote Sensing
+    JASE.        Journal of Applied Science and Engineering Section on Electrical Power and Information Systems
+    JApSc        Journal of Applied Sciences
+    JApSp        Journal of Applied Spectroscopy
+    JApS.        Journal of Applied Statistics
+    JApT.        Journal of Approximation Theory
+    JAESc        Journal of Asian Earth Sciences
+    JAD..        Journal of Astronomical Data
+    JAHH.        Journal of Astronomical History and Heritage
+    JAsPh        Journal of Astronomy and Physics (Turkey)
+    JApA.        Journal of Astrophysics and Astronomy
+    JApAS        Journal of Astrophysics and Astronomy Supplement
+    JAtOT        Journal of Atmospheric and Oceanic Technology
+    JASTP        Journal of Atmospheric and Solar-Terrestrial Physics
+    JATP.        Journal of Atmospheric and Terrestrial Physics
+    JAtC.        Journal of Atmospheric Chemistry
+    JAtS.        Journal of Atmospheric Sciences
+    JAMOP        Journal of Atomic, Molecular and Optical Physics
+    JAES.        Journal of Audio Engineering Society
+    JAuGG        Journal of Australian Geology and Geophysics
+    JAuR.        Journal of Automated Reasoning
+    JBall        Journal of Ballistics
+    JBBM.        Journal of Biochemical and Biophysical Methods
+    JBB..        Journal of Bioenergetics and Biomembranes
+    JBC..        Journal of Biological Chemistry
+    JBP..        Journal of Biological Physics
+    JBiom        Journal of Biomechanics
+    JBO..        Journal of Biomedical Optics
+    JBNMR        Journal of Biomolecular NMR
+    JBBC.        Journal of Biophysical and Biochemical Cytology
+    JBiop        Journal of Biophysics
+    JBiBi        Journal of Biophysique et de Biomecanique
+    JBMN.        Journal of Biophysique et Medecine Nucleaire
+    JBMR.        Journal of Bone and Mineral Research
+    JBR..        Journal of Breath Research
+    JCat.        Journal of Catalysis
+    JChEd        Journal of Chemical Education
+    JChPh        Journal of Chemical Physics
+    JChTh        The Journal of Chemical Thermodynamics
+    JChS.        Journal of Chromatographic Science
+    JCh..        Journal of Chromatography
+    JCSC.        Journal of Circuits, Systems and Computers
+    JCli.        Journal of Climate
+    JCAM.        Journal of Climate and Applied Meteorology
+    JClim        Journal of Climatology
+    JClM.        Journal of Clinical Microbiology
+    JClP.        Journal of Clinical Pharmacology
+    JCS..        Journal of Cluster Science
+    JCScT        Journal of College Science Teaching
+    JCIS.        Journal of Colloid and Interface Science
+    JCoSc        Journal of Colloid Science
+    JCTA.        Journal of Combinatorial Theory, Series A
+    JCTB.        Journal of Combinatorial Theory, Series B
+    JCom.        Journal of Communications
+    CoNet        Journal of Communications and Networks
+    JComp        Journal of Complexity
+    JCoMa        Journal of Composite Materials
+    JCTR.        Journal of Composites and Technology Research
+    JCA..        Journal of Computational Acoustics
+    JCoAM        Journal of Computational and Applied Mathematics
+    JCoB.        Journal of Computational Biology
+    JCoCh        Journal of Computational Chemistry
+    JCM..        Journal of Computational Mathematics
+    JCoN.        Journal of Computational Neuroscience
+    JCoPh        Journal of Computational Physics
+    JCST.        Journal of Computational Science and Technology
+    JCoSS        Journal of Computer and System Sciences
+    JCAMD        Journal of Computer-Aided Materials Design
+    JCHyd        Journal of Contaminant Hydrology
+    JConP        Journal of Contemporary Physics (Armenian Academy of Sciences)
+    JCos.        Journal of Cosmology
+    JCAP.        Journal of Cosmology and Astro-Particle Physics
+    JCrGr        Journal of Crystal Growth
+    JDR..        Journal of Dairy Research
+    JDE..        Journal of Differential Equations
+    JDGeo        Journal of Differential Geometry
+    JoDI.        Journal of Digital Information
+    JDST.        Journal of Dispersion Science and Technology
+    JDisT        Journal of Display Technology
+    JDSO.        Journal of Double Star Observations
+    JDCS.        Journal of Dynamical and Control Systems
+    JDDE.        Journal of Dynamics and Differential Equations
+    JESS.        Journal of Earth System Science
+    JElas        Journal of Elasticity
+    JEEEA        Journal of Electrical and Electronics Engineering Australia
+    JElec        Journal of Electroceramics
+    JEWA.        Journal of Electromagnetic Waves and Applications
+    JEMT.        Journal of Electron Microscopy Technique
+    JESRP        Journal of Electron Spectroscopy and Related Phenomena
+    JECS.        Journal of Electronic Circuits and Systems
+    JEI..        Journal of Electronic Imaging
+    JEMat        Journal of Electronic Materials
+    JEPub        Journal of Electronic Publishing
+    JElM.        Journal of Electronics Manufacturing
+    JESEd        Journal of Elementary Science Education
+    JEner        Journal of Energy
+    JEAS.        Journal of Engineering and Applied Sciences
+    JEnMa        Journal of Engineering and Mathematics
+    JEngM        Journal of Engineering and Mechanics
+    JETh.        Journal of Engineering and Thermophysics
+    JEER.        Journal of Engineering Education Research
+    JEP..        Journal of Engineering Physics
+    JEPT.        Journal of Engineering Physics and Thermophysics
+    JEngS        Journal of Engineering Sciences
+    JEEM.        Journal of Environmental and Economics Management
+    JECE.        Journal of Environmental Conservation Engineering
+    JEnvS        Journal of Environmental Sciences
+    JExB.        Journal of Experimental Botany
+    JENan        Journal of Experimental Nanoscience
+    JFin.        The Journal of Finance
+    JFF..        Journal of Fire Flammability
+    JFC..        Journal of Fluid Control
+    JFM..        Journal of Fluid Mechanics
+    JFST.        Journal of Fluid Science and Technology
+    JFS..        Journal of Fluids and Structures
+    JFlu.        Journal of Fluorescence
+    JFAA.        Journal of Fourier Analysis and Applications
+    JFuA.        Journal of Functional Analysis
+    JGeod        Journal of Geodesy
+    JGeo.        Journal of Geodynamics
+    JGS..        Journal of Geographical Systems
+    JG...        Journal of Geology
+    JGG..        Journal of Geomagnetism and Geoelectricity
+    JGGS.        Journal of Geomagnetism and Geoelectricity Supplement
+    JGP..        Journal of Geometry and Physics
+    JGR..        Journal of Geophysical Research
+    JGRD.        Journal of Geophysical Research (Atmospheres)
+    JGRG.        Journal of Geophysical Research (Biogeosciences)
+    JGRF.        Journal of Geophysical Research (Earth Surface)
+    JGRC.        Journal of Geophysical Research (Oceans)
+    JGRE.        Journal of Geophysical Research (Planets)
+    JGRB.        Journal of Geophysical Research (Solid Earth)
+    JGRA.        Journal of Geophysical Research (Space Physics)
+    JGRS.        Journal of Geophysical Research Supplement
+    JGE..        Journal of Geophysics and Engineering
+    JGZG.        Journal of Geophysics Zeitschrift Geophysik
+    JGeEd        Journal of Geoscience Education
+    JGlac        Journal of Glaciology
+    JGO..        Journal of Global Optimization
+    JGrPh        Journal of Gravitational Physics
+    JGuC.        Journal of Guidance Control
+    JGCD.        Journal of Guidance Control Dynamics
+    JHeu.        Journal of Heuristics
+    JHENP        Journal of High Energy and Nuclear Physics
+    JHEP.        Journal of High Energy Physics
+    JHEPC        Journal of High Energy Physics Conference Proceedings
+    JHSN.        Journal of High Speed Networks
+    JHTS.        Journal of High Temperature Society
+    JHyd.        Journal of Hydrology
+    JHyMe        Journal of Hydrometeorology
+    JHyn.        Journal of Hydronautics
+    JIST.        Journal of Imaging Science and Technology
+    JInfo        Journal of Infometrics
+    JIPM.        Journal of Information Processing and Management
+    JIMW.        Journal of Infrared and Millimeter Waves
+    JInst        Journal of Instrumentation
+    JIntS        Journal of Integer Sequences
+    JIEq.        Journal of Integral Equations
+    JIRS.        Journal of Intelligent and Robotic Systems
+    JIMSS        Journal of Intelligent Material Systems and Structures
+    JJAHS        Journal of Japanese Association of Hydrological Sciences
+    JJSEE        Journal of Japanese Society for Engineering Education
+    JKTR.        Journal of Knot Theory and its Ramifications
+    JKAS.        Journal of Korean Astronomical Society
+    JKASS        Journal of Korean Astronomical Society Supplement
+    JKPS.        Journal of Korean Physical Society
+    JLCMe        Journal of Laboratory and Clinical Medicine
+    JLasA        Journal of Laser Applications
+    JLCM.        Journal of Less Common Metals
+    JLVEn        Journal of Light & Visual Environment
+    JLwT.        Journal of Lightwave Technology
+    JLTP.        Journal of Low Temperature Physics
+    JLum.        Journal of Luminescence
+    JMSB.        Journal of Macromolecular Science, Part B: Physics
+    JMSC.        Journal of Macromolecular Science, Part C: Reviews in Macromolecular Chemistry and Physics
+    JMmSP        Journal of Macromolecular Science Physics
+    JMmSR        Journal of Macromolecular Science Reviews in Macromolecular Chemistry and Physics
+    JMagR        Journal of Magnetic Resonance
+    JMMM.        Journal of Magnetism and Magnetic Materials
+    JMR..        Journal of Marine Research
+    JMSA.        Journal of Marine Science and Application
+    JMS..        Journal of Marine Systems
+    JMarA        Journal of Maritime Archaeology
+    JMES.        Journal of Materials and Energy Systems
+    JMCh.        Journal of Materials Chemistry
+    JMEP.        Journal of Materials Engineering and Performance
+    JMPMS        Journal of Materials Processing and Manufacturing Science
+    JMatR        Journal of Materials Research
+    JMatS        Journal of Materials Science
+    JMSME        Journal of Materials Science and Materials Electronics
+    JMSL.        Journal of Materials Science Letters
+    JMSMM        Journal of Materials Science: Materials in Medicine
+    JMSP.        Journal of Materials Synthesis and Processing
+    JMAA.        Journal of Mathematical Analysis and Applications
+    JMPS.        Journal of Mathematical and Physical Sciences
+    JMaCh        Journal of Mathematical Chemistry
+    JMFM.        Journal of Mathematical Fluid Mechanics
+    JMIV.        Journal of Mathematical Imaging and Vision
+    JMP..        Journal of Mathematical Physics
+    JMPsy        Journal of Mathematical Psychology
+    JMaSc        Journal of Mathematical Sciences
+    JMSo.        Journal of Mathematical Sociology
+    JMaMe        Journal of Mathematics and Mechanics
+    JMaPh        Journal of Mathematics and Physics
+    JMecE        Journal of Mechanical and Engineering Science
+    JMBM.        Journal of Mechanical Behavior and Materials
+    JMSTL        Journal of Mechanical Systems for Transportation and Logistics
+    JMPSo        Journal of Mechanics Physics of Solids
+    JMNB.        Journal of Medecine Nucleaire et Biophysique
+    JME&T        Journal of Medical Engineering & Technology
+    JMet.        Journal of Metals
+    JMemS        Journal of Microelectromechanical Systems
+    JMM&M        Journal of Microlithography, Microfabrication, and Microsystems
+    JMiMi        Journal of Micromechanics and Microengineering
+    JMic.        Journal of Microscopy
+    JMPeS        Journal of Mineralogical and Petrological Sciences
+    JMOp.        Journal of Modern Optics
+    JMPh.        Journal of Modern Physics
+    JMBio        Journal of Molecular Biology
+    JMoEl        Journal of Molecular Electronics
+    JMolE        Journal of Molecular Evolution
+    JMoSp        Journal of Molecular Spectroscopy
+    JMoSt        Journal of Molecular Structure
+    JMA..        Journal of Multivariate Analysis
+    JNR..        Journal of Nanoparticle Research
+    JNano        Journal of Nanophotonics
+    JNav.        Journal of Navigation
+    JNIS.        Journal of Near Infrared Spectroscopy
+    JNEng        Journal of Neural Engineering
+    JNeur        Journal of Neurochemistry
+    JNO..        Journal of Neuro-Oncology
+    JNCS.        Journal of Non Crystalline Solids
+    JNET.        Journal of Non Equilibrium Thermodynamics
+    JNLM.        Journal of Non Linear Mechanics
+    JNE..        Journal of Nondestructive Evaluation
+    JNMP.        Journal of Nonlinear Mathematical Physics
+    JNOPM        Journal of Nonlinear Optical Physics and Materials
+    JNS..        Journal of NonLinear Science
+    JNuE.        Journal of Nuclear Energy
+    JNuM.        Journal of Nuclear Materials
+    JNT..        Journal of Number Theory
+    JOUC.        Journal of Ocean University of China
+    JOC..        Journal of Optical Communications
+    JON..        Journal of Optical Networking
+    JOptT        Journal of Optical Technology
+    JOpt.        Journal of Optics
+    JOptA        Journal of Optics A: Pure and Applied Optics
+    JOptB        Journal of Optics B: Quantum and Semiclassical Optics
+    JOTA.        Journal of Optimization Theory Applications
+    JOMS.        Journal of Oral and Maxillofacial Surgery
+    JOR..        Journal of Oral Rehabilitation
+    JPal.        Journal of Paleontology
+    JPDC.        Journal of Parallel and Distributed Computing
+    JPet.        Journal of Petrology
+    JPhPh        Journal of Pharmacy and Pharmacology
+    JPCRD        Journal of Physical and Chemical Reference Data
+    JPCC.        Journal of Physical and Colloid Chemistry
+    JPCA.        Journal of Physical Chemistry A
+    JPhCh        Journal of Physical Chemistry
+    JPCB.        Journal of Physical Chemistry B
+    JPO..        Journal of Physical Oceanography
+    JPhSt        Journal of Physical Studies
+    JPhA.        Journal of Physics A Mathematical General
+    JPCS.        Journal of Physics and Chemistry of Solids
+    JPhB.        Journal of Physics B Atomic Molecular Physics
+    JPhC.        Journal of Physics C Solid State Physics
+    JPCM.        Journal of Physics Condensed Matter
+    JPhCS        Journal of Physics Conference Series
+    JPhD.        Journal of Physics D Applied Physics
+    JPhE.        Journal of Physics E Scientific Instruments
+    JPhF.        Journal of Physics F Metal Physics
+    JPhG.        Journal of Physics G Nuclear Physics
+    JPhGS        Journal of Physics G Nuclear Physics Supplement
+    JPE..        Journal of Physics of the Earth
+    JPTEO        Journal of Physics Teacher Education Online
+    JPhsg        Journal of Physiology
+    JPFR.        Journal of Plasma and Fusion Research
+    JPlPh        Journal of Plasma Physics
+    JPoSc        Journal of Polymer Science
+    JPoSA        Journal of Polymer Science A Polymer Chemistry
+    JPoSB        Journal of Polymer Science B Polymer Physics
+    JPoSL        Journal of Polymer Science: Polymer Letters Edition
+    JPMat        Journal of Porous Materials
+    JPES.        Journal of Power and Energy Systems
+    JPS..        Journal of Power Sources
+    JPAS.        Journal of Practical Applications in Space
+    JPP..        Journal of Propulsion Power
+    JPT..        Journal of Propulsion Technology
+    JPrCh        Journal of Protein Chemistry
+    JPApS        Journal of Pure Applied Sciences
+    JQT..        Journal of Quality Technology
+    JQSRT        Journal of Quantitative Spectroscopy and Radiative Transfer
+    JQS..        Journal of Quaternary Science
+    JRNC.        Journal of Radioanalytical and Nuclear Chemistry
+    JRAC.        Journal of Radioanalytical Chemistry
+    JRP..        Journal of Radiological Protection
+    JRSp.        Journal of Raman Spectroscopy
+    JRPC.        Journal of Reinforced Plastics and Composites
+    JRes.        Journal of Research
+    JRScT        Journal of Research in Science Teaching
+    JRNBS        Journal of Research of the National Bureau of Standards
+    JRNBA        Journal of Research of the National Bureau of Standards A Physica and Chemsitry
+    JRNBB        Journal of Research of the National Bureau of Standards B Mathematical Sciences
+    JRTEd        Journal of Research on Technology in Education
+    JResB        Journal of Research Section B Mathematical Sciences B
+    JRheo        Journal of Rheology
+    JRoS.        Journal of Robotic Systems
+    JRLR.        Journal of Russian Laser Research
+    JSEdT        Journal of Science Education and Technology
+    JSTEd        Journal of Science Teacher Education
+    JSCom        Journal of Scientific Computing
+    JScI.        Journal of Scientific Instruments
+    JSIPI        Journal of Scientific Instruments and of Physics in Industry
+    JSR..        Journal of Sea Research
+    JSedR        Journal of Sedimentary Research
+    JSeis        Journal of Seismology
+    JSemi        Journal of Semiconductors
+    JSGeo        Journal of Series Geophysics
+    JShR.        Journal of Ship Research
+    JSGST        Journal of Sol-Gel Science and Technology
+    JSMME        Journal of Solid Mechanics and Materials Engineering
+    JSSCh        Journal of Solid State Chemistry France
+    JSCh.        Journal of Solution Chemistry
+    JSV..        Journal of Sound Vibration
+    JSAES        Journal of South American Earth Sciences
+    JSLR.        Journal of Soviet Laser Research
+    JSAR.        Journal of Space Astronomy Research
+    JSpEn        Journal of Space Engineering
+    JSpRo        Journal of Spacecraft and Rockets
+    JSpT.        Journal of Spacecraft Technology
+    JSCS.        Journal of Statistical Computation and Simulation
+    JSMTE        Journal of Statistical Mechanics: Theory and Experiment
+    JSP..        Journal of Statistical Physics
+    JStA.        Journal of Strain Analysis and Engineering Design
+    JSAED        Journal of Strain Analysis for Engineering Design
+    JSG..        Journal of Structural Geology
+    JSM..        Journal of Structural Mechanics
+    JSup.        Journal of Superconductivity
+    JSymC        Journal of Symbolic Computation
+    JSDD.        Journal of System Design and Dynamics
+    JTePh        Journal of Technical Physics
+    JTech        Journal of Technology
+    JTeEv        Journal of Testing Evaluation
+    JTBio        Journal of Theoretical Biology
+    JTAC.        Journal of Thermal Analysis and Calorimetry
+    JThSc        Journal of Thermal Science
+    JJTST        Journal of Thermal Science and Technology
+    JTST.        Journal of Thermal Spray Technology
+    JThSt        Journal of Thermal Stresses
+    JTh..        Journal of Thermodynamics
+    JTHT.        Journal of Thermophysics and Heat Transfer
+    JThCM        Journal of Thermoplastic Composite Materials
+    JTF..        Journal of Time and Frequency
+    JTurb        Journal of Turbulence
+    JVST.        Journal of Vacuum Science Technology
+    JVSTA        Journal of Vacuum Science Technology A: Vacuum Surfaces and Films
+    JVSTB        Journal of Vacuum Science Technology B: Microelectronics and Nanometer Structures
+    JVC..        Journal of Vibration and Control
+    JVE..        Journal of Vibration Engineering
+    JVCIR        Journal of Visual Communication and Image Representation
+    JVGR.        Journal of Volcanology and Geothermal Research
+    JWMSE        Journal of Women and Minorities in Science and Engineering
+    JXST.        Journal of X-Ray Science and Technology
+    JSMEJ        JSME International Journal
+    JSMEA        JSME International Journal Series A
+    JSMEB        JSME International Journal Series B
+    JSMEC        JSME International Journal Series C
+    JSMET        JSME Transactions
+    KhPl.        Khimiia Plazmy
+    KIzIM        Kiev Izdanie Instituta Matematiki AN USSR
+    KPCB.        Kinematics and Physics of Celestial Bodies
+    KPCBS        Kinematics and Physics of Celestial Bodies, Supplement
+    KFNT.        Kinematika i Fizika Nebesnykh Tel
+    KFNTS        Kinematika i Fizika Nebesnykh Tel Supplement
+1975LNP....36    Kinetic theory of gases with discrete velocity distribution
+    KiCat        Kinetics and Catalysis
+1989LNP...329    Knowledge Based Systems in Astronomy
+2003LNP...636    The Kolmogorov Legacy in Physics
+    KomMe        Komety i Meteory
+    KIMMJ        Korean Institute of Metals and Materials Journal
+    KNT..        Kosmicheskaia Nauka i Tekhnika
+    KosIs        Kosmicheskie Issledovaniia
+    KosIU        Kosmicheskie Issledovaniia Ukraine
+    KosLu        Kosmicheskie Luchi
+    KosNT        Kosmichna Nauka i Tekhnologiya
+    KT...        K-Theory
+    KvanE        Kvantovaia Elektronika Moscow
+    Kyb..        Kybernetes
+    LChip        Lab on a Chip
+    AerAs        L'Aeronautique et L'Astronautique
+    LDD..        Land Degradation & Development
+    Langm        Langmuir
+    LaJ..        Lapidary Journal
+1991LNP...392    Large Scale Structures in Nonlinear Physics
+1988LNP...310    Large-scale structures in the universe
+1991LNP...389    Laser Ablation Mechanisms and Applications
+    LPB..        Laser and Particle Beams
+    LaEO.        Laser Elektro Optik
+    LaFoc        Laser Focus
+    LasJ.        Laser Journal
+    LaPhy        Laser Physics
+1983LNP...182    Laser Physics
+    LaPhL        Laser Physics Letters
+1975LNP....43    Laser Spectroscopy
+    LAstr        L'Astronomie
+1991LNP...373    Late Stages of Stellar Evolution.  Computational Methods in Astrophysical Hydrodynamics
+    LatJP        Latvian Journal of Physics and Technical Sciences
+1995LNP...450    Lévy Flights and Related Topics in Physics
+    LePub        Learned Publishing
+    LERec        L'Echo des Recherches
+    LNEA.        Lecture Notes and Essays in Astrophysics
+    LNCS.        Lecture Notes in Computer Science
+    LNP..        Lecture Notes in Physics, Berlin Springer Verlag
+2009LNP...780    Lectures in Magnetohydrodynamics
+1974LNP....28    Lectures in Statistical Physics
+1977LNP....69    Lectures on Density Wave Theory
+2002LNP...583    Lectures on Quark Matter
+2003LNP...619    Lectures on Solar Physics
+    LeEne        Leningrad Energoizdat
+    LeGid        Leningrad Gidrometeoizdat
+    Leo..        Leonardo
+1978LNP....72    Les instabilitiés hydrodynamiques en convection libre, forcée et mixte
+1986LNP...245    Les Modèles Asymptotiques de la Mécanique des Fluides 1.
+1987LNP...276    Les Modèles Asymptotiques de la Mécanique des Fluides II
+    LHMT.        Letters Heat Mass Transfer
+    LAES.        Letters in Applied and Engineering Sciences
+    LMaPh        Letters in Mathematical Physics
+1986LNP...250    Lie Methods in Optics
+1989LNP...352    Lie Methods in Optics II
+    LDA..        Lifetime Data Analysis
+1998lsnp.conf    Light Scattering by Nonspherical Particles: Theory, Measurements, and Aplications
+2000LNP...534    Light Scattering from Microstructure
+    LiCr.        Liquid Crystals
+    Litho        Lithos
+    LitJP        Lithuanian Journal of Physics and Technical Sciences
+    LRR..        Living Reviews in Relativity
+    LRSP.        Living Reviews in Solar Physics
+1986LNP...252    Local and Global Methods of Nonlinear Dynamics
+1988LNP...308    Localizability and Space in Quantum Physics
+    LOEle        L'Onde Electrique
+1990LNP...362    Low Frequency Astrophysics from Space
+2002AIPC..605    Low Temperature Detectors
+    LTP..        Low Temperature Physics
+1991LNP...394    Low Temperature Physics
+2000LNP...544    Low-Dimensional Systems. Interactions and Transport Properties
+    LubEn        Lubrication Engineering
+    LR...        Luft und Raumfahrt
+    LuRaQ        Luft und Raumfahrt Quarter
+    MaDes        Machine Design
+    MLear        Machine Learning
+    MmCP.        Macromolecular Chemistry and Physics
+    MaMol        Macromolecules
+1985LNP...230    Macroscopic Modelling of Turbulent Flows
+1982LNP...154    Macroscopic Properties of Disordered Media
+1989LNP...337    Magnetic Phenomena: The Warren E. Henry Symposium on Magnetism
+    MRMed        Magnetic Resonance in Medicine
+    MRMPB        Magnetic Resonance Materials in Physics Biology and Medicine
+2001LNP...565    Magnetism and Synchrotron Radiation
+    MHD..        Magnetohydrodynamics
+    MagGi        Magnitnaia Gidrodinamika
+    MagIs        Magnitosfernye Issledovaniia
+    MaTeJ        ManTech Journal
+    ManGe        Manuscripta Geodaetica
+1981LNP...138    The Many-Body Problem Jastrow Correlations Versus Brueckner Theory
+    MarRv        Marconi Review
+    MarGe        Marine Geodesy
+    MarGR        Marine Geophysical Research
+    Mashi        Mashinostroenie
+    MaFiz        Matematicheskaia Fizika
+    MatVe        Matematichki Vesnik
+    Mate.        Materials
+1996LNP...464    Materials and Fluids Under Low Gravity
+    MMP..        Materials and Manufacturing Processes
+    MaHT.        Materials at High Temperatures
+    MCP..        Materials Chemistry and Physics
+    MatEv        Materials Evaluation
+    MatL.        Materials Letters
+    MRSSP        Materials Research Society Symposia Proceedings
+    MSEnA        Materials Science and Engineering A
+    MSEng        Materials Science and Engineering
+    MSEnB        Materials Science and Engineering B
+    MSEnC        Materials Science and Engineering C
+    MS&E.        Materials Science and Engineering Conference Series
+    MSEnR        Materials Science and Engineering R Reports
+    MSTec        Materials Science and Technology
+    MSF..        Materials Science Forum
+    MatST        Materials Science Technology
+    MatTe        Materiaux et Techniques
+1984LNP...209    Mathematical and Computational Methods in Nuclear Physics
+    MComM        Mathematical and Computer Modelling
+2000LNP...537    Mathematical and Quantum Aspects of Relativity and Cosmology
+2003LNP...618    The Mathematical Aspects of Quantum Maps
+    MEI..        Mathematical Engineering Industry
+    MaFi.        Mathematical Finance
+    MatG.        Mathematical Geology
+1980LNP...130    Mathematical Methods and Applications of Scattering Theory
+    MMAS.        Mathematical Methods in the Applied Sciences
+1988LNP...299    Mathematical Modeling in Combustion Science
+    MatM.        Mathematical Modelling
+    MMNA.        Mathematical Modelling Numerical Analysis
+    M3AS.        Mathematical Models and Methods in Applied Sciences
+    MPAG.        Mathematical Physics, Analysis and Geometry
+    MPAM.        Mathematical Physics and Applied Mathematics
+    MaPEJ        Mathematical Physics Electronic Journal
+1975LNP....39    Mathematical Problems in Theoretical Physics
+1978LNP....80    Mathematical Problems in Theoretical Physics
+1980LNP...116    Mathematical Problems in Theoretical Physics
+1982LNP...153    Mathematical Problems in Theoretical Physics
+    MaPr.        Mathematical Proceedings
+    MPCPS        Mathematical Proceedings of the Cambridge Philosophical Society
+    MatPr        Mathematical Programming
+    MatRv        Mathematical Reviews
+1983LNP...185    Mathematical Structure of the Singularities at the Transitions Between Steady States in Hydrodynamic Systems
+    MMS..        Mathematics and Mechanics of Solids
+    MaCom        Mathematics of Computation
+    Mat..        Mathematika
+    MatAn        Mathematische Annalen
+    MatZe        Mathematische Zeitschrift
+    MatMo        The Mathemtical Monthly
+1994LNP...440    Matter Under Extreme Conditions
+1982LNP...163    Mécanique des Fluides Incompressibles
+    MeScT        Measurement Science and Technology
+    MeScR        Measurement Science Review
+1988LNP...314    Measures of Complexity
+2004mmu..symp    Measuring and Modeling the Universe
+    Mecc.        Meccanica
+    MecEn        Mechanical Engineering
+    MSSP.        Mechanical Systems and Signal Processing
+    MPDS.        Mechanics and Physics of Discrete Systems
+    MCMS.        Mechanics of Composite Materials & Structures
+    MSM..        Mechanics of Structures and Machines
+    MTDM.        Mechanics of Time-Dependent Materials
+    MeReC        Mechanics Research Communications
+    MeTeS        Mechanika Teoretyczna i Stosowana
+    MeMaT        Mechanism and Machine Theory
+    MedPh        Medical Physics
+1985LNP...243    Medium Energy Nucleon and Antinucleon Scattering
+    MekGS        Mekhanika Giroskopicheskikh Sistem
+    MekKM        Mekhanika Kompozitnykh Materialov
+    MekP.        Mekhanika Polimerov
+    MekTT        Mekhanika Tverdogo Tela
+    MmARB        Memoires of the Academie Royale de Belgique
+    MSRSL        Memoires of the Societe Royale des Sciences de Liege
+    MeSRM        Memoires Scientifiques de la Revue de Metallurgie
+    MmRAS        Memoirs of the Royal Astronomical Society
+    MeCom        Mendeleev Communications
+    MeAut        Meres es Automatika
+    MeRAu        Mesures Regulation Automatisme
+    Metal        Metallofizika
+    MMTA.        Metallurgical and Materials Transactions A
+    MMTB.        Metallurgical and Materials Transactions B
+    MTA..        Metallurgical Transactions A
+    MTB..        Metallurgical Transactions B
+    MetaM        Metamaterials
+    Met..        Meteorite - The International Quarterly of Meteorites and Meteorite Science
+    Metit        Meteorites
+    Metic        Meteoritics
+    M&PS.        Meteoritics and Planetary Science
+    M&PSA        Meteoritics and Planetary Science Supplement
+    Metik        Meteoritika
+    MetIs        Meteornye Issledovaniia
+    MeApp        Meteorological Applications
+    MetMa        Meteorological Magazine
+    MetMo        Meteorological Monographs
+    MeSJJ        Meteorological Society of Japan Journal
+    MetZp        Meteorologicke Zpravy
+    Meteo        La Meteorologie
+    MeGid        Meteorologiia i Gidrologiia
+    MetRu        Meteorologische Rundschau
+    MetZe        Meteorologische Zeitschrift
+    MAP..        Meteorology and Atmospheric Physics
+    MetAP        Meteorology Atmospheric Physics
+    MVMP.        Methoden und Verfahren der Mathematischen Physik
+    MCME.        Methods: A Companion to Methods in Enzymology
+    MApAn        Methods and Applications of Analysis
+    MComP        Methods in Computational Physics
+    MGG..        Methods in Geochemistry and Geophysics
+    MSB..        Methods in Subnuclear Physics
+    MExP.        Methods of Experimental Physics
+2001LNP...572    Methods of Quantization
+    MetVy        Metody Vychislenii
+    Metro        Metrologia
+    MPFD.        Microdevices: Physics and Fabrication Technologies
+    MiEng        Microelectronic Engineering
+    MiI..        Microelectronics International
+    MiRe.        Microelectronics Reliability
+    MicgQ        Microgravity Quarterly
+    MiST.        Microgravity Science and Technology
+    MTEng        Microscale Thermophysical Engineering
+    MiMic        Microscopy and Microanalysis
+    MiOTL        Microwave and Optical Technology Letters
+    MiJo.        Microwave Journal
+    MicWa        Microwaves
+    AcMik        Mikrochimica Acta
+    Mikro        Mikroelektronika
+    MikSb        Mikroelektronika Sbornik
+    MiElC        Military Electronics Countermeasures
+    MiLa.        Mind and Language
+    MWE..        Mine Water and The Environment
+    MinPh        Mineral Physics
+    Miner        Mineralogia
+    MinPe        Mineralogy and Petrology
+    MisSp        Missiles Spacecraft
+1995LNP...449    Modeling in Combustion Science
+    MSMSE        Modelling Simul. Mater. Sci. Eng.
+1987LNP...273    Models and Methods in Few-Body Physics
+    MAG..        Modern Approaches in Geophysics
+2001LNP...575    Modern Challenges in Quantum Optics
+    ModGe        Modern Geology
+    MIMPE        Modern Instrumentation and Measurements in Physics and Engineering
+    MPLA.        Modern Physics Letters A
+    MPLB.        Modern Physics Letters B
+    MJPS.        Moldavian Journal of the Physical Sciences
+    MBB..        Molecular Biology and Biophysics
+    MBBB.        Molecular Biology Biochemistry and Biophysics
+1988LNP...315    Molecular Clouds, Milky-Way and External Galaxies
+    MCLC.        Molecular Crystals and Liquid Crystals
+1986LNP...258    Molecular Dynamics
+1987LNP...277    Molecular Dynamics and Relaxation Phenomena in Glasses
+    MGM..        Molecular Genetics and Metabolism
+    MolPh        Molecular Physics
+    MoPhR        Molecular Physics Reports
+    MoSim        Molecular Simulation
+2004LNP...634    Molecules in Interaction with Surfaces and Interfaces
+1985LNP...240    Monte-Carlo Methods and Applications in Neutronics, Photonics, and Statistical Physics
+    MNSSA        Monthly Notes of the Astronomical Society of South Africa
+    MNRAS        Monthly Notices of the Royal Astronomical Society
+    MWRv.        Monthly Weather Review
+    Moon.        Moon
+    M&P..        Moon and Planets
+1989LNP...332    Morphological Cosmology
+2002LNP...600    Morphology of Condensed Matter
+    MAtom        Moscow Atomizdat
+    MEner        Moscow Energoizdat
+2005ASSL..330    The Multinational History of Strasbourg Astronomical Observatory
+    NanoL        Nano Letters
+    Nanos        Nanoscale
+    NRL..        Nanoscale Research Letters
+2002LNP...588    Nanoscale Spectroscopy and Its Applications to Semiconductor Research
+2002LNP...593    Nanostructured Magnetic Materials and Their Applications
+    Nanot        Nanotechnology
+1980LNP...133    Narrow Gap Semiconductors Physics and Applications
+    NaGe.        National Geographic
+    NISTJ        National Institute of Standards and Technology Journal of Research
+    NHESS        Natural Hazards and Earth System Sciences
+    NatH.        Natural History
+    NatSc        Natural Science
+    Natur        Nature
+    NatBi        Nature Biotechnology
+    NatCh        Nature Chemistry
+    NatCC        Nature Climate Change
+    NatCo        Nature Communications
+    NatGe        Nature Geoscience
+    NatMa        Nature Materials
+    NatNa        Nature Nanotechnology
+1978LNP....81    The Nature of the Elementary Particle
+    NaPho        Nature Photonics
+    NPhS.        Nature Physical Science
+    NatPh        Nature Physics
+    NW...        Naturwissenschaften
+    NInfo        Nauchnye Informatsii
+    Navig        Navigation
+    NavAu        Navigation Australia
+    NavPa        Navigation Paris
+1985LNP...237    Nearby Molecular Clouds
+    NCNS.        Network: Computation in Neural Systems
+    NSpEc        Networks and Spatial Economics
+    NeCom        Neural Computation
+    NN...        Neural Networks
+    NeuL.        Neuroscience Letters
+    Neuro        The Neuroscientist
+    NPNDS        Neutron Physics and Nuclear Data in Science and Technology
+1980LNP...128    Neutron Spin Echo
+2002LNP...601    Neutron Spin Echo Spectroscopy: Basics, Trends and Applications
+1985LNP...232    New Aspects of Galaxy Photometry
+1993LNP...416    New Aspects of Magellanic Cloud Research
+    NewA.        New Astronomy
+    NewAR        New Astronomy Review
+2000LNP...545    New Developments in High Temperature Superconductivity
+1980LNP...122    New Developments in Semiconductor Physics
+1988LNP...301    New Developments in Semiconductor Physics
+1992LNP...408    New Insights into the Universe
+    NJCh.        New Journal of Chemistry
+    NJPh.        New Journal of Physics
+1989LNP...347    New Methods and Results in Non-linear Field Equations
+    NewSc        New Scientist
+2000LNP...546    New Trends in Hera Physics 1999
+    NZJGG        New Zealand Journal Geology and Geophysics
+    NZJS.        New Zealand Journal of Science
+2008LNP...746    Nishina Memorial Lectures
+    NCE..        Noise Control Engineering Journal
+2000LNP...550    Noise, Oscillators and Algebraic Randomness. From Noise in Communication Systems to Number Theory
+2002LNP...596    Noncommutative Geometry and the Standard Model of Elementary Particle Physics
+2009LNP...774    Noncommutative Spacetimes
+    NDTE.        Nondestructive Testing and Evaluation
+    NTE..        Nondestructive Testing And Evaluation
+    NDTI.        Nondestructive Testing and Evaluation International
+    NTCo.        Nondestructive Testing Communications
+    NPPSB        Nonequilibrium Problems in the Physical Sciences and Biology
+2001LNP...560    Nonextensive Statistical Mechanics and Its Application
+1980LNP...127    Non-Homogeneous Media and Vibration Theory
+1990LNP...353    Nonlinear Coherent Structures
+1991LNP...393    Nonlinear Coherent Structures in Physics and Biology
+1985LNP...226    Non-Linear Equations in Classical and Quantum Field Theory
+1980LNP...120    Nonlinear Evolution Equations and Dynamical Systems
+1987LNP...271    Nonlinear Hydrodynamic Modeling: A Mathematical Introduction
+1987LNP...270    Nonlinear Integrable Equations: Recursion Operators, Group Theoretical and Hamiltonian Structures of Soliton Equations
+1999LNP...536    Nonlinear MHD Waves and Turbulence
+    NlOpt        Nonlinear Optics
+1983LNP...189    Nonlinear Phenomena
+    NPGeo        Nonlinear Processes in Geophysics
+2000LNP...542    Nonlinear Science at the Dawn of the 21st Century
+    NSAP.        Nonlinear, Statistical and Applied Physics
+    Nonli        Nonlinearity
+1994LNP...437    Non-Linearity and Breakdown in Soft Condensed Matter
+1980LNP...125    Nonradial and Nonlinear Stellar Pulsation
+    NROpt        Nouvelle Revue d'Optique
+    NROA.        Nouvelle Revue d'Optique Appliquee
+1984LNP...204    Novel Application of Anomalous (Resonance) X-ray Scattering for Structural Characterization of Disordered Materials
+2004LNP...640    Novel Methods in Soft Matter Simulations
+1987LNP...287    Nuclear Astrophysics
+    NDS..        Nuclear Data Sheets
+    NuEnD        Nuclear Engineering and Design
+    NucFu        Nuclear Fusion
+    NucFS        Nuclear Fusion Special Supplement
+    NuGeo        Nuclear Geophysics
+    NucIM        Nuclear Instruments and Methods
+    NIMPA        Nuclear Instruments and Methods in Physics Research A
+    NIMPR        Nuclear Instruments and Methods in Physics Research
+    NIMPB        Nuclear Instruments and Methods in Physics Research B
+1979LNP....92    Nuclear Interactions
+    NucPh        Nuclear Physics
+    NuPhA        Nuclear Physics A
+    NuPhB        Nuclear Physics B
+    NuPhS        Nuclear Physics B Proceedings Supplements
+1992LNP...404    Nuclear Physics Concepts in the Study of Atomic Cluster Physics
+    NSE..        Nuclear Science Engineering
+1980LNP...119    Nuclear Spectroscopy
+    NucTe        Nuclear Technology
+    NucTF        Nuclear Technology Fusion
+    NAR..        Nucleic Acids Research
+    NuAlg        Numerical Algorithms
+1989LNP...351    Numerical Combustion
+    NFAO.        Numerical Functional Analysis and Optimization
+    NumHT        Numerical Heat Transfer
+    NHTA.        Numerical Heat Transfer Part A - Applications
+    NHTB.        Numerical Heat Transfer Part B - Fundamentals
+1992LNP...398    Numerical Methods for the Simulation of Multi-Phase and Complex Flow
+1975LNP....35    Numerical Methods in Fluid Dynamics
+1981LNP...141    Numerical Methods in Fluid Dynamics
+1982LNP...170    Numerical Methods in Fluid Dynamics
+1985LNP...218    Numerical Methods in Fluid Dynamics
+1986LNP...264    Numerical Methods in Fluid Dynamics
+1989LNP...323    Numerical Methods in Fluid Dynamics
+1990LNP...371    Numerical Methods in Fluid Dynamics
+1993LNP...414    Numerical Methods in Fluid Dynamics
+1995LNP...453    Numerical Methods in Fluid Dynamics
+1985LNP...241    Numerical Simulation of Combustion Phenomena
+2000LNP...552    Numerical Treatment of Multiphase Flows in Porous Media
+    NuMat        Numerische Mathematik
+    NCimA        Nuovo Cimento A Serie
+    NCimB        Nuovo Cimento B Serie
+    NCimC        Nuovo Cimento C Geophysics Space Physics C
+    NCimD        Nuovo Cimento D Serie
+    NCimL        Nuovo Cimento Lettere
+    NCimR        Nuovo Cimento Rivista Serie
+    NCimS        Nuovo Cimento Serie
+    Obs..        The Observatory
+    OcDyn        Ocean Dynamics
+    OcEng        Ocean Engineering
+    OcMod        Ocean Modelling
+    OcPhE        Ocean Physics and Engineering
+    OcSci        Ocean Science
+    OcScD        Ocean Science Discussions
+    OSJ..        Ocean Science Journal
+    OSJaJ        Oceanographical Society of Japan Journal
+    AcOC.        Oceanologica Acta
+    Ocgy.        Oceanology
+    Oikos        Oikos
+    Okean        Okeanologiia
+    ONCP.        Old and New Concepts of Physics
+    OAcJ.        The Open Acoustics Journal
+    OAeEJ        The Open Aerospace Engineering Journal
+    OAPJ.        The Open Applied Physics Journal
+    OAJ..        The Open Astronomy Journal
+    OASJ.        The Open Atmospheric Science Journal
+    OCPJ.        The Open Chemical Physics Journal
+    OCMPJ        The Open Condensed Matter Physics Journal
+    OGC..        The Open Geology Journal
+    OHJ..        The Open Hydrology Journal
+    OLear        Open Learning
+    OMEJ.        The Open Mechanical Engineering Journal
+    OMJ..        The Open Mechanics Journal
+    OMPJ.        The Open Mineral Processing Journal
+    OMnJ.        The Open Mineralogy Journal
+    ONJ..        The Open Nanoscience Journal
+    ONPPJ        The Open Nuclear & Particle Physics Journal
+    ONMJ.        The Open Numerical Methods Journal
+    OOEJ.        The Open Ocean Engineering Journal
+    OOcJ.        The Open Oceanagraphy Journalurnal
+    OOJ..        The Open Optics Journal
+    OPalJ        The Open Paleontology Journal
+    OPCJ.        The Open Physical Chemistry Journal
+    OPPJ.        The Open Plasma Physics Journal
+    ORSJ.        The Open Remote Sensing Journal
+    OREJ.        The Open Renewable Energy Journal
+    OSPJ.        The Open Signal Processing Journal
+    OSpeJ        The Open Spectroscopy Journal
+    OSuJ.        The Open Superconductors Journal
+    OSSJ.        The Open Surface Science Journal
+    OSID.        Open Systems and Information Dynamics
+    AcOpt        Optica Acta
+    OQE..        Optical and Quantum Electronics
+    OptEn        Optical Engineering
+    OptFT        Optical Fiber Technology
+    OptMa        Optical Materials
+    OptPE        Optical Physics and Engineering
+    OptRv        Optical Review
+    OSAJI        Optical Society of America Journal Optics and Image Science
+2003LNP...613    Optical Solitons
+    OptPN        Optics & Photonics News
+    OptLE        Optics and Lasers in Engineering
+    OptSp        Optics and Spectroscopy
+    OptCo        Optics Communications
+    OExpr        Optics Express
+    OptLT        Optics Laser Technology
+    OptL.        Optics Letters
+    OptN.        Optics News
+    Optik        Optik
+    OpAt.        Optika Atmosfery
+    OpAtO        Optika Atmosfery i Okeana
+    OpSp.        Optika i Spektroskopiia
+    OpMeP        Optiko Mekhanicheskaia Promyshlennost
+    OptEL        Optoelectronics Letters
+    OERv.        Opto-Electronics Review
+    OpPuT        Optoelektronika i Poluprovodnikovaia Tekhnika
+1977LNP....65    Organic Conductors and Semiconductors
+    OrGeo        Organic Geochemistry
+2000ASSL..256    Organizations and Strategies in Astronomy
+2002ASSL..280    Organizations and Strategies in Astronomy III
+2003ASSL..296    Organizations and Strategies in Astronomy IV
+2004ASSL..310    Organizations and Strategies in Astronomy, Vol. 5
+2006ASSL..343    Organizations and Strategies in Astronomy, Vol. 6
+2006ASSL..335    Organizations and Strategies in Astronomy, Vol. 7
+2001ASSL..266    Organizations and Strategies in Astronomy, Vol. II
+2004oee..symp    Origin and Evolution of the Elements
+    OrLi.        Origins of Life
+    OLEB.        Origins of Life and Evolution of the Biosphere
+    Orion        Orion: Zeitschrift für Amateur-Astronomie
+    OrNav        Ortung und Navigation
+    Osir.        Osiris
+    OsCar        Osteoarthritis and Cartilage
+1988LNP...306    The Outer Galaxy
+    OxM..        Oxidation of Metals
+    OzSE.        Ozone: Science & Engineering
+    Palb.        Paleobiology
+    PalOc        Paleoceanography
+2008LNP...740    A Pan-Chromatic View of Clusters of Galaxies and the Large-Scale Structure
+    PPh..        Papers in Physics
+    PMG..        Papers Meteorology Geophysics
+    PGC..        Papers on Global Change IGBP
+    ParC.        Parallel Computing
+    Paras        Parasitology
+    ParAc        Particle Accelerators
+2009LNP...781    Particle and Nuclear Physics at J-PARC
+1995LNP...458    Particle Physics and Astrophysics
+2003LNP...616    Particle Physics in the New Millennium
+2003LNP...610    Particle Scattering, X-Ray Diffraction, and Microstructure of Solids and Liquids
+1975LNP....32    Particles, Quantum Fields and Statistical Mechanics
+    PaReL        Pattern Recognition Letters
+1989LNP...344    PDEs and Continuum Models of Phase Transitions
+1987LNP...269    PDMS and Clusters
+2009LNP...771    Percolation Theory for Flow in Porous Media
+    PZ...        Peremennye Zvezdy
+    PZP..        Peremennye Zvezdy Prilozhenie
+    PMHu.        Periodica Mathematica Hungarica
+    PPEE.        Periodica Polytechnica Electrical Engineering
+    PPME.        Periodica Polytechnica Mechanical Engineering
+    PPTE.        Periodica Polytechnica Transportation Engineering
+1998LNP...503    A Perspective Look at Nonlinear Media from Physics to Biology and Social Sciences
+1988LNP...320    Perspectives in Fluid Mechanics
+1990LNP...365    Perspectives on Photon Interactions with Hadrons and Nuclei
+    PTMJ.        Phase Transitions: A Multinational Journal
+    PhDT.        Ph.D. Thesis
+    PMag.        Philosophical Magazine
+    PMagL        Philosophical Magazine Letters
+    PMagA        Philosophical Magazine, Part A
+    PMagB        Philosophical Magazine, Part B
+    PFP..        Philosophy and Foundations of Physics
+    PhInt        Photo Interpretation
+    PcPb.        Photochemistry and Photobiology
+    Pg...        Photogrammetria
+    PgE..        Photogrammetric Engineering
+1983LNP...191    Photon Photon Collisions
+    PhNan        Photonics and Nanostructures
+    PhSen        Photonics Sensors
+    PhoSp        Photonics Spectra
+1977LNP....62    Photonuclear Reactions II
+    PsynR        Photosynthesis Research
+    Psyn.        Photosynthetica
+    PhyOJ        Physcs Online Journal
+    PhyL.        Physic Letters
+    Phy..        Physica
+    PhyA.        Physica A Statistical Mechanics and its Applications
+    PhyB.        Physica B Condensed Matter
+    PhyBC        Physica B+C
+    PhyC.        Physica C Superconductivity
+    PhyD.        Physica D Nonlinear Phenomena
+    PhyE.        Physica E Low-Dimensional Systems and Nanostructures
+    PhyNr        Physica Norvegica
+    PhyS.        Physica Scripta
+    PhySB        Physica Scripta B
+    PhST.        Physica Scripta Volume T
+    PSSAR        Physica Status Solidi Applied Research
+    PSSBR        Physica Status Solidi B Basic Research
+    PSSCR        Physica Status Solidi C Current Topics
+    PSSRR        Physica Status Solidi Rapid Research Letters
+    PhySS        Physica Status Solids
+    PhAco        Physical Acoustics
+1990LNP...361    Physical and Nonstandard Gauges
+    PhBio        Physical Biology
+    PCESR        Physical Chemical and Earth Sciences Research Reports
+    PCCP.        Physical Chemistry Chemical Physics (Incorporating Faraday Transactions)
+    PCSE.        Physical Chemistry: Science and Engineering
+    PhGeo        Physical Geography
+    PPHTS        Physical Properties of High Temperature Superconductors
+    PhyR.        Physical Research
+    PhRv.        Physical Review
+    PhRvA        Physical Review A
+    PhRvB        Physical Review B
+    PhRvC        Physical Review C
+    PhRvD        Physical Review D
+    PhRvE        Physical Review E
+    PhRvL        Physical Review Letters
+    PhRvI        Physical Review Series I
+    PhRvS        Physical Review Special Topics Accelerators and Beams
+    PRSTP        Physical Review Special Topics Physics Education
+    PSD..        Physical Sciences Data
+1991LNP...383    The Physical Universe: The Interface Between Cosmology, Astrophysics and Particle Physics
+    PhChH        PhysicoChemical Hydrodynamics
+    Physi        Physics
+    DokPh        Physics - Doklady
+2001LNP...576    Physics and Astrophysics of Ultra-High-Energy Cosmic Rays
+    PCS..        Physics and Chemistry in Space
+    PCE..        Physics and Chemistry of the Earth
+    PCEA.        Physics and Chemistry of the Earth A
+    PCEB.        Physics and Chemistry of the Earth B
+    PCEC.        Physics and Chemistry of the Earth C
+    PCED.        Physics and Chemistry of the Earth Delta
+    PhChE        Physics and Chemistry of Earth
+1995LNP...459    The Physics and Chemistry of Interstellar Molecular Clouds
+1989LNP...331    The Physics and Chemistry of Interstellar Molecular Clouds - mm and Sub-mm Observations in Astrophysics
+    PCL..        Physics and Chemistry of Liquids
+    PCMLD        Physics and Chemistry of Materials with Low-Dimensional Structures
+    PCMLA        Physics and Chemistry of Materials with Low-Dimensional Structures Series A
+    PCMLB        Physics and Chemistry of Materials with Low-Dimensional Structures Series B
+    PCMLC        Physics and Chemistry of Materials with Low-Dimensional Structures Series C
+    PCM..        Physics and Chemistry of Minerals
+    PEEI.        Physics and Evolution of the Earth's Interior
+1994LNP...435    Physics and Industry
+    PhApp        Physics and its Applications
+    PTPPB        Physics and Technology of Particle and Photon Beams
+1993LNP...419    Physics and Technology of Semiconductor Quantum Devices
+    PhB..        Physics Bulletin
+    PhyEd        Physics Education
+    PCHEI        Physics in Collision: High-Energy ee/ep/pp Interactions
+1987LNP...284    Physics in Living Matter
+    PMB..        Physics in Medicine and Biology
+    PhP..        Physics in Perspective
+    PhTec        Physics in Technology
+    PhLF.        Physics Laser Fusion
+    PhL..        Physics Letters
+    PhLA.        Physics Letters A
+    PhLB.        Physics Letters B
+    PhLC.        Physics Letters Section C Physics Reports C
+    PhyNY        Physics New York
+    PhyN.        Physics Notes
+2005LNP...653    The Physics of the Early Universe
+    PEPI.        Physics of the Earth and Planetary Interiors
+2009LNP...785    The Physics of the Quark-Gluon Plasma
+    PhSS.        Physics of the Solid State
+1986LNP...266    The Physics of Accretion onto Compact Objects
+2006LNP...693    Physics of Active Galactic Nuclei at all Scales
+    PAN..        Physics of Atomic Nuclei
+    PAM..        Physics of Atoms and Molecules
+1997LNP...480    Physics of Biological Systems: From Molecules to Species
+2009LNP...769    Physics of Black Holes
+    PhFl.        Physics of Fluids
+    PhFlB        Physics of Fluids B
+    PhLRv        Physics of Life Reviews
+    PLDS.        Physics of Low-Dimensional Structures
+    PhMet        Physics of Metals
+    PMM..        Physics of Metals and Metallography
+1982LNP...152    Physics of Narrow Gap Semiconductors
+2001LNP...578    Physics of Neutron Star Interiors
+    PPN..        Physics of Particles and Nuclei
+    PPNL.        Physics of Particles and Nuclei Letters
+1987LNP...278    The Physics of Phase Space, Nonlinear Dynamics and Chaos, Geometric Quantization, and Wigner Function
+1987LNP...285    Physics of Phonons
+    PhPl.        Physics of Plasmas
+    PhQE.        Physics of Quantum Electronics
+2000LNP...549    Physics of Rotating Fluids
+    PSL..        Physics of Solids and Liquids
+    PTF..        Physics of Thin Films
+    PWP..        Physics of Wave Phenomena
+    PhR..        Physics Reports
+    PRI..        Physics Research International
+    PhTea        The Physics Teacher
+    PhT..        Physics Today
+    PhyU.        Physics Uspekhi
+    PhyW.        Physics World
+    PKM..        Physik der Kondensierten Materie
+1984LNP...200    Die Physik der Zeitrichtung
+    PhuZ.        Physik in unserer Zeit
+    PCTM.        Physikalisch-Chemische Trenn- und Messmethoden
+    PhyG.        Physikalische Gesellschaft
+    PhyGZ        Physikalische Gesellschaft Zürich
+    PhyZ.        Physikalische Zeitschrift
+    PhyCP        Physiological Chemistry and Physics
+    PhyM.        Physiological Measurement
+    PhylS        Physiologist Supplement
+    PAZh.        Pis ma Astronomicheskii Zhurnal
+    PZETF        Pis ma Zhurnal Eksperimental noi i Teoreticheskoi Fiziki
+    PZhTF        Pis ma Zhurnal Tekhnischeskoi Fiziki
+    P&SS.        Planetary and Space Science
+    PlAst        Planetary Astronomy
+    PlR..        Planetary Report
+    PCPhy        Plant and Cell Physiology
+    PlJ..        The Plant Journal
+    PFR..        Plasma and Fusion Research
+1996LNP...468    Plasma Astrophysics
+    PCPP.        Plasma Chemistry and Plasma Processing
+    PlPh.        Plasma Physics
+    PPCF.        Plasma Physics and Controlled Fusion
+    PlPhR        Plasma Physics Reports
+    PlST.        Plasma Science and Technology
+    PSST.        Plasma Sources Science Technology
+    Pl&I.        Plasmas and Ions
+    PlPo.        Plasmas and Polymers
+    PLoSB        PLoS Biology
+    PLoSC        PLoS Clinical Trials
+    PLSCB        PLoS Computational Biology
+    PLoSG        PLoS Genetics
+    PLoSM        PLoS Medicine
+    PLoSN        PLoS Neglected Tropical Diseases
+    PLoSO        PLoS ONE
+    PLoSP        PLoS Pathogens
+    PMCPA        PMC Physics A
+    PMCPB        PMC Physics B
+    PMCPC        PMC Physics C
+    PMTF.        PMTF Zhurnal Prikladnoi Mekhaniki i Tekhnicheskoi Fiziki
+    PnGid        Pnevmatika i Gidravlika
+1974LNP....30    Polarization Nuclear Physics
+    PJMPE        Polish Journal of Medical Physics And Engineering
+    PolAt        Pollution Atmospherique
+    PolTM        Poluprovodnikovaia Tekhnika i Mikroelektronika
+    PolPP        Poluprovodnikovye Pribory i ikh Primenenie
+2009LNP...775    Polygons, Polyominoes and Polycubes
+    Poly.        Polymer
+    PoCom        Polymer Composites
+2003LNP...606    Polymer Crystallization: Obervations, Concepts and Interpretations
+    PolPh        Polymer Physics
+    PPTEn        Polymer-Plastics Technology and Engineering
+    PomAK        Pomiary Automatyka Kontrola
+    PA...        Popular Astronomy
+    PorMe        Poroshkovaia Metallurgiia
+    PoAn.        Postepy Astronautyki
+    PoAst        Postepy Astronomii Krakow
+1999ASSL..237    Post-Hipparcos Cosmic Candles
+    PSci.        Pour la Science
+    PDiff        Powder Diffraction
+    PrAst        Practical Astronomy
+    PraAc        Prague Academia
+    Prama        Pramana
+2003LNP...627    Precision Physics of Simple Atomic Systems
+2008LNP...745    Precision Physics of Simple Atoms and Molecules
+1994LNP...429    Present and Future of the Cosmic Microwave Background
+1981LNP...143    Present Status and Aims of Quantum Electrodynamics
+    Prib.        Priborostroenie
+    PriTE        Pribory i Tekhnika Eksperimenta
+    PriMM        Prikladnaia Matematika i Mekhanika
+    PriMP        Prikladnaia Matematika i Programmirovanie
+    PriM.        Prikladnaia Mekhanika
+2003LNP...620    A Primer in Density Functional Theory
+    Prir.        Priroda
+    PrEM.        Probabilistic Engineering Mechanics
+1995LNP...451    Probabilistic Methods in Applied Physics
+1990LNP...359    Problems Involving Change of Type
+1977LNP....71    Problems of Stellar Convection
+    PrAiA        Problemy Arktiki i Antarktiki
+    PrBio        Problemy Bioniki
+    PrDRV        Problemy Difraktsii i Rasprostraneniia Voln
+    PrFA.        Problemy Fiziki Atmosfery
+    PrFKL        Problemy Iadernoi Fiziki i Kosmicheskikh Luchei
+    PrKFi        Problemy Kosmicheskoi Fiziki
+    PrMas        Problemy Mashinostroeniia
+    PrPro        Problemy Prochnosti
+    PrSP.        Problemy Sluchainogo Poiska
+    PrTE.        Problemy Tekhnicheskoi Elektrodinamiki
+    PrTGE        Problemy Teorii Gravitatsii i Elementarnykh Chastits
+    PrTPT        Problemy Teploenergetiki i Prikladnoi Teplofiziki
+    PBioS        Proceedings: Biological Sciences
+    PMPES        Proceedings: Mathematical, Physical and Engineering Sciences
+    PAMS.        Proceedings of the American Mathematical Society
+    PAPhS        Proceedings of the American Philosophical Society
+    PASAu        Proceedings of the Astronomical Society of Australia
+    PEMS.        Proceedings of the Edinburgh Mathematical Society
+    PNAS.        Proceedings of the National Academy of Science
+    PNSC.        Proceedings of the National Science Council
+    PNSBP        Proceedings of the National Society of Black Physicists
+    PPS..        Proceedings of the Physical Society
+    PPSA.        Proceedings of the Physical Society A
+    PPSB.        Proceedings of the Physical Society B
+    PPSL.        Proceedings of the Physical Society of London
+    PRIAA        Proceedings of the Royal Irish Academy Section A
+    PRNAS        Proceedings of the Royal Netherlands Academy of Arts and Sciences
+    PSEBM        Proceedings of The Society for Experimental Biology and Medicine
+2003LNP...621    Processes with Long-Range Correlations
+    PELIS        Program: electronic library & information systems
+    PrAeS        Progress in Aerospace Sciences
+    PrAA.        Progress in Astronautics and Aeronautics
+    PBB..        Progress in Biochemistry and Biophysics
+    PBBC.        Progress in Biophysics and Biophysical Chemistry
+    PBMB.        Progress in Biophysics and Molecular Biology
+    PrECS        Progress in Energy and Combustion Science
+    PLTP.        Progress in Low Temperature Physics
+    PrMS.        Progress in Materials Science
+    PMatP        Progress in Mathematical Physics
+    PMRP.        Progress in Medical Radiation Physics
+    PMetP        Progress in Metal Physics
+    PNSci        Progress in Natural Science
+1975LNP....41    Progress in Numerical Fluid Dynamics
+    PrOce        Progress in Oceanography
+    POrCo        Progress in Organic Coatings
+    PrPNP        Progress in Particle and Nuclear Physics
+    PPcPp        Progress in Photochemistry and Photophysics
+    PPGeo        Progress in Physical Geography
+    PrPh.        Progress in Physics
+    PQE..        Progress in Quantum Electronics
+    PrSS.        Progress In Surface Science
+    PTCP.        Progress in Theoretical Chemistry and Physics
+1990LNP...367    Progress of Seismology of the Sun and Stars
+    PThPh        Progress of Theoretical Physics
+    ProTe        Promyshlennaia Teplotekhnika
+    PrEx.        Propellants and Explosives
+    PrExP        Propellants and Explosives Pyrotechnics
+2010pdac.book    Protoplanetary Dust: Astrophysical and Cosmochemical Perspectives
+2000prpl.conf    Protostars and Planets IV
+2007prpl.conf    Protostars and Planets V
+    PUS..        Public Understanding of Science
+    PKAS.        Publication of Korean Astronomical Society
+    PASK.        Publications of the Academy of Science Kasakstan Sect. Astrobotanics
+    PAASA        Publications of the Astronomical and Astrophysical Society of America
+    PASP.        Publications of the Astronomical Society of the Pacific
+    PASPS        Publications of the Astronomical Society of the Pacific Supplement
+    PASA.        Publications of the Astronomical Society of Australia
+    PASJ.        Publications of the Astronomical Society of Japan
+    PASRB        Publications of the Astronomical Society "Rudjer Boskovic"
+    PApCh        Pure & Applied Chemistry
+    PApGe        Pure and Applied Geophysics
+    PApPh        Pure and Applied Physics
+    PApOp        Pure Applied Optics
+1984LNP...194    QCD: Renormalization for the Practitioner
+1988LNP...312    QED: A Proof of Renormalizability
+    QREI.        Quality Reliability Engineering International
+    QuFin        Quantitative Finance
+2001LNP...571    Quantized Vortex Dynamics and Superfluid Turbulence
+    QuSOp        Quantum and Semiclassical Optics
+1991LNP...378    Quantum Aspects of Optical Communications
+1986LNP...263    Quantum Chaos and Statistical Nuclear Physics
+1980LNP...118    Quantum Chromodynamics
+2006LNP...689    Quantum Coherence: From Quarks to Solids
+2005LNP...667    Quantum Dots: a Doorway to Nanoscale Physics
+1987LNP...286    Quantum Dynamical Semigroups and Applications
+    QuEle        Quantum Electronics
+2000LNP...558    Quantum Field Theory
+2009LNP...786    Quantum Field Theory on Curved Spacetimes
+1999LNP...517    Quantum Future: From Volta and Como to the Present and Beyond
+2003LNP...631    Quantum Gravity: From Theory to Experimental Search
+1990LNP...370    Quantum Groups
+1994LNP...427    Quantum Inversion Theory and Applications
+2004LNP...645    Quantum Magnetism
+    QuOpt        Quantum Optics
+1982LNP...155    Quantum Optics
+1989LNP...321    Quantum Probability — Quantum Logic
+2004LNP...649    Quantum State Estimation
+2004LNP...657    Quantum Thermodynamics: Emergence of Thermodynamic Behavior Within Composite Quantum Systems
+1993LNP...417    Quark Cluster Dynamics
+1985LNP...221    Quark Matter '84
+1984LNP...197    Quarks and Nuclear Structure
+    QJRAS        Quarterly Journal of the Royal Astronomical Society
+    QJRMS        Quarterly Journal of the Royal Meteorological Society
+    QJMat        The Quarterly Journal of Mathematics
+    QJMAM        Quarterly Journal of Mechanics and Applied Mathematics
+    QJPAM        The Quarterly Journal of Pure and Applied Mathematics
+    QApMa        Quarterly of Applied Mathematics
+    QRBio        Quarterly Reviews of Biophysics
+    QuRes        Quaternary Research
+    QSRv.        Quaternary Science Reviews
+2002LNP...587    Qubits, Cbits, Decoherence, Quantum Measurement and Environment
+    Quest        Quest
+    REB..        Radiation and Environmental Biophysics
+    REDS.        Radiation Effects and Defects in Solids
+    RaPC.        Radiation Physics and Chemistry
+    RaRe.        Radiation Research
+    RaEE.        Radio and Electronic Engineer
+    REEP.        Radio Engineering and Electronic Physics
+1999LNP...530    The Radio Galaxy Messier 87
+    RPRA.        Radio Physics and Radio Astronomy
+    RaRLJ        Radio Research Laboratories Journal
+    RaRLR        Radio Research Laboratories Review
+    RaSc.        Radio Science
+    RaScS        Radio Science Supplement
+    Radel        Radioelectronika
+    RaF..        Radiofizika
+    R&QE.        Radiophysics and Quantum Electronics
+    RaT..        Radiotekhnika
+    RaEl.        Radiotekhnika i Elektronika
+    RatK.        Radiotekhnika Kharkov
+    LeRad        Le Radium
+    RamJ.        The Ramanujan Journal
+    RF...        Raumfahrtforschung
+    RCAEn        RCA Engineer
+    RCARv        RCA Review
+    RTI..        Real-Time Imaging
+1980LNP...113    Recent Advances in the Quantum Theory of Polymers
+1991LNP...396    Recent Aspects of Quantum Fields
+    RDCMP        Recent Development in Condensed Matter Physics
+1984LNP...199    Recent Developments in Nonequilibrium Thermodynamics
+1986LNP...253    Recent Developments in Nonequilibrium Thermodynamics
+1981LNP...142    Recent Progress in Many-Body Theories
+1984LNP...198    Recent Progress in Many-Body Theories
+    Rech.        La Recherche
+    ReAer        La Recherche Aerospatiale
+    ReSp.        La Recherche Spatiale
+1991LNP...384    Reduced Kinetic Mechanisms and Asymptotic Approximations for Methane-Air Flames
+    RZh..        Referationyj Zhurnal
+    RJEHM        Regional Journal of Energy Heat and Mass Transfer
+    RCD..        Regular and Chaotic Dynamics
+1982LNP...162    Relativistic Action at a Distance: Classical and Quantum Aspects
+2002LNP...589    Relativistic Flows in Astrophysics
+1992LNP...410    Relativistic Gravity Research
+1991LNP...391    Relativistic Hadrons in Cosmic Compact Objects
+2000LNP...559    Relativistic Quantum Measurement and Decoherence
+    RemS.        Remote Sensing
+    RSEMS        Remote Sensing Electro Magnetic Spectrum
+    RSEnv        Remote Sensing of Environment
+    RSQ..        Remote Sensing Quarterly
+1978LNP....74    A Renormalization Group Analysis of the Hierarchical Model in Statistical Mechanics
+1988LNP...303    Renormalization of Quantum Field Theories with Non-linear Field Transformations
+    RpMP.        Reports on Mathematical Physics
+    RPPh.        Reports on Progress in Physics
+    RTAMS        Representation Theory of the American Mathematical Society
+    RBSEJ        Research Based Science Education Journal
+    RAA..        Research in Astronomy and Astrophysics
+    RSTEd        Research in Science and Technological Education
+    RScEd        Research in Science Education
+    RJPh.        Research Journal of Physics
+    RLOpt        Research Letters in Optics
+    RLPhy        Research Letters in Physics
+    RMA..        Research Measurement Approach
+    RPFSU        Research Papers Faculty of Materials Science and Technology Slovak University of Technology
+1984LNP...211    Resonances -- Models and Phenomena
+1989LNP...325    Resonances The Unifying Route Towards the Formulation of Dynamical Processes Foundations and Applications in Nuclear, Atomic and Molecular Physics
+1982LNP...156    Resonances in Heavy Ion Reactions
+1995LNP...441    Response of the Nuclear System to External Forces
+    RDR..        Review of Derivatives Research
+    RvES.        The Review of Economic Studies
+    RvE&S        The Review of Economics and Statistics
+    RvPCJ        Review of Physical Chemistry of Japan
+    RvPT.        Review of Physics in Technology
+    RScI.        Review of Scientific Instruments
+    RvMaP        Reviews in Mathematical Physics
+    RvMA.        Reviews in Modern Astronomy
+    RvGeo        Reviews of Geophysics
+    RvGSP        Reviews of Geophysics and Space Physics
+    RvGeS        Reviews of Geophysics Supplement
+    RvMin        Reviews of Mineralogy
+    RvMP.        Reviews of Modern Physics
+    RvMPS        Reviews of Modern Physics Supplement
+    RvOp.        Reviews of Optics
+    RvPP.        Reviews of Plasma Physics
+    RMxAA        Revista Mexicana de Astronomia y Astrofisica
+    RMxAC..27    Revista Mexicana de Astronomia y Astrofisica, vol. 27
+    RMxF.        Revista Mexicana de Fisica
+    RMxFS        Revista Mexicana de Fisica Supplement
+    AerRv        Revue Aerospatiale
+    RvAc.        Revue d'Acoustique
+    RvGPG        Revue de Geographie Physique et de Geologie Dynamique
+    RvGDG        Revue de Geologie Dynamique et de Geographie Physique
+    RvPA.        Revue de Physique Appliquee
+    RvPD.        Revue du Palais de la Decouverte
+    RFrM.        Revue Francaise de Mecanique
+    RvRP.        Revue Roumaine de Physique
+    RvRST        Revue Roumaine des Sciences Techniques Serie de Mecanique Appliquee
+    RST..        Revue Scientifique et Technique CECLES CERS
+    RvT..        Revue Technique Thomson CSF
+    AcRhe        Rheologica Acta
+1991LNP...381    Rheological Modelling: Thermodynamical and Statistical Approaches
+    RA...        Ricerche Astronomiche
+1978LNP....78    The Rigged Hilbert Space and Quantum Mechanics
+    RRA..        River Research and Applications
+    RIG..        Rivista Italiana di Geofisica
+    RIGSA        Rivista Italiana di Geofisica e Scienze Affini
+    RvTS.        Rivista Tecnica Selenia
+    Robot        Robotica
+    RMRE.        Rock Mechanics and Rock Engineering
+    RMFMR        Rock Mechanics Felsmechanik Mecanique des Roches
+1981LNP...136    The Role of Coherent Structures in Modelling Turbulence and Mixing
+    RoAJ.        Romanian Astronomical Journal
+    RoJPh        Romanian Journal of Physics
+1993LNP...423    Rotating Objects and Relativistic Physics
+1990LNP...366    Rotation and Mixing in Stellar Interiors
+2009LNP...765    The Rotation of Sun and Stars
+1987LNP...293    Rotational Dynamics of Small and Macromolecules
+    RSN&R        Royal Society of London Notes & Records
+    RSPTA        Royal Society of London Philosophical Transactions Series A
+    RSPTB        Royal Society of London Philosophical Transactions Series B
+    RSPT.        Royal Society of London Philosophical Transactions Series I
+    RSPSA        Royal Society of London Proceedings Series A
+    RSPSB        Royal Society of London Proceedings Series B
+    RSPS.        Royal Society of London Proceedings Series I
+2004LNP...637    Rubber and Rubber Balloons: Paradigms of Thermodynamics
+1980LNP...123    The Ruelle-Araki Transfer Operator in Classical Statistical Mechanics
+2008LNP...736    Rugged Free Energy Landscape,s
+    Ruimt        Ruimtevaart
+    RuCRv        Russian Chemical Reviews
+    RuGG.        Russian Geology and Geophysics
+    RJET.        Russian Journal of Engineering Thermophysics
+    RJMP.        Russian Journal of Mathematical Physics
+    RJPC.        Russian Journal Physical Chemistry
+    RJPCA        Russian Journal Physical Chemistry A
+    RJPCB        Russian Journal Physical Chemistry B
+    RJTAM        Russian Journal Theoretical and Applied Mechanics
+    RuMaS        Russian Mathematical Surveys
+    RuMet        Russian Metallurgy
+    RuPhJ        Russian Physics Journal
+2002LNP...603    Ruthenate and Rutheno-Cuprate Materials
+    SAMPJ        SAMPE Journal
+    SAMPQ        SAMPE Quarterly
+    SatCo        Satellite Communications
+2009sfch.book    Saturn from Cassini-Huygens
+    SbMat        Sbornik: Mathematics
+    SJCLI        The Scandinavian Journal of Clinical and Laboratory Investigation
+    SJMet        Scandinavian Journal of Metallurgy
+    ScReE        Scholarly Research Exchange
+1989LNP...345    Schrödinger Operators
+1992LNP...403    Schrödinger Operators The Quantum Mechanical Many-Body Problem
+    SNG..        Schweizerische Naturforschende Gesellschaft
+    Sci..        Science
+    Sc&Ed        Science & Education
+    SECM.        Science and Engineering of Composite Materials
+    STAdM        Science and Technology of Advanced Materials
+    SciDi        Science Dimension
+    SciEd        Science Education
+    ScEdR        Science Education Research
+    SFCh.        Science Foundation in China
+    ScChA        Science in China A: Mathematics
+    ScChB        Science in China B: Chemistry
+    ScChC        Science in China C: Life Sciences
+    ScChD        Science in China D: Earth Sciences
+    ScChE        Science in China E: Technological Sciences
+    ScChF        Science in China F: Information Sciences
+    ScChG        Science in China G: Physics and Astronomy
+    ScTEn        Science of the Total Environment
+    Scis.        Sciences
+    Sc&Te        Sciences et Techniques
+    SciB.        Scientia (Bologna)
+    SciSn        Scientia Sinica
+    SSSMP        Scientia Sinica Series Mathematical Physical Technical Sciences
+    SciAm        Scientific American
+1999LNP...522    Scientific Applications of Neural Nets
+    SMS..        Scientific Modeling and Simulation SMNS
+    Scim.        Scientometrics
+    ScM..        Scripta Metallurgica
+    ScMM.        Scripta Metallurgica et Materialia
+    SedG.        Sedimentary Geology
+    SeiKa        Seikei-Kakou
+    SEGeo        Seismology and Exploration Geophysics
+1986LNP...244    Selected Topics in Gauge Theories
+1988LNP...300    Semiclassical Theory of Atoms
+    SeScT        Semiconductor Science Technology
+    SeSTS        Semiconductor Science Technology Supplement
+    Semic        Semiconductors
+    SDia.        Seminars in Dialysis
+    SenIm        Sensing and Imaging
+    SeRv.        Sensor Review
+    SeAc.        Sensors and Actuators
+    SeAcA        Sensors and Actuators A Physical
+    SeAcB        Sensors and Actuators B Chemical
+    SS&T.        Separation Science and Technology
+    SerAJ        Serbian Astronomical Journal
+    SV...        Shock and Vibration
+    ShWav        Shock Waves
+    SJAM.        SIAM Journal of Applied Mathematics
+    SJCO.        SIAM Journal of Control Optimization
+    SJMA.        SIAM Journal of Mathematical Analysis
+    SJADS        SIAM Journal on Applied Dynamical Systems
+    SJNA.        SIAM Journal on Numerical Analysis
+    SiMaJ        Siberian Mathematical Journal
+    Sig..        Signal
+    SigPr        Signal Processing
+    Simul        Simulation
+    SiMol        Single Molecules
+2002LNP...590    Singularities in Gravitational Systems
+    SZPA.        SIRIUS. Zeitschrift fuer Populaere Astronomie
+    SRT..        Skin Research and Technology
+    SBE..        Small Business Economics
+1995LNP...462    Small-Scale Structures in Three-Dimensional Hydrodynamic and Magnetohydrodynamic Turbulence
+    SMaS.        Smart Material Structures
+    SCoA.        Smithsonian Contributions to Astrophysics
+    SSS..        Social Studies of Science
+    SASS.        Society for Astronomical Sciences Annual Symposium
+    SEEJ.        Society of Environmental Engineers Journal
+2001LNP...577    Solar and extra-solar planetary systems
+2006LNP...699    Solar and Heliospheric Origins of Space Weather Phenomena
+1987LNP...292    Solar and Stellar Physics
+    SoCe.        Solar Cells
+    SoEn.        Solar Energy
+    SoEnM        Solar Energy Materials
+    SoPh.        Solar Physics
+2008ssbn.book    The Solar System Beyond Neptune
+    SoSyR        Solar System Research
+    STERJ        Solar Terrestrial and Environmental Research Japan
+    SolE.        Solid Earth
+    SolED        Solid Earth Discussions
+    SSCom        Solid State Communications
+    SSEle        Solid State Electronics
+    SSIon        Solid State Ionics
+    SSNMR        Solid State Nuclear Magnetic Resonance
+    SSPAR        Solid State Physics Advances in Research and Applications
+    SSPAS        Solid State Physics Advances in Research and Applications Supplement
+    SSSci        Solid State Sciences
+    SSTec        Solid State Technology
+1984LNP...205    Solutions of Einstein's Equations: Techniques and Results
+2002LNP...586    Sound-Flow Interactions
+    SAJPh        South African Journal of Physics
+    SAJSc        South African Journal of Science
+    SovAe        Soviet Aeronomii
+    SvApM        Soviet Applied Mechanics
+    SvA..        Soviet Astronomy
+    SvAL.        Soviet Astronomy Letters
+    JETP.        Soviet Journal of Experimental and Theoretical Physics
+    JETPL        Soviet Journal of Experimental and Theoretical Physics Letters
+    SvJNP        Soviet Journal of Nuclear Physics
+    SvJPP        Soviet Journal of Plasma Physics
+    SvJQE        Soviet Journal of Quantum Electronics
+    SvPAC        Soviet Physics Acoustics
+    SvPhA        Soviet Physics Astronomy
+    SvPC.        Soviet Physics Crystallography
+    SPhD.        Soviet Physics Doklady
+    SvPhJ        Soviet Physics Journal
+    SvPS.        Soviet Physics Semiconductors
+    SvPSS        Soviet Physics Solid State
+    SPTP.        Soviet Physics Technical Physics
+    SvPhU        Soviet Physics Uspekhi
+    SvRP.        Soviet Radiophysics
+    SSRvA        Soviet Scientific Reviews A Physics Reviews
+    SSRvC        Soviet Scientific Reviews C Mathematical Physics Reviews
+    SSRvD        Soviet Scientific Reviews D Physicochemical Biology Reviews
+    SSRvE        Soviet Scientific Reviews E Astrophysics and Space Physics Reviews
+    SvTRv        Soviet Technology Reviews
+    Space        Space
+    SSPRv        Space and Solar Power Review
+    SpCoB        Space Communication Broadcasting
+    SpCom        Space Communications
+    SpEd.        Space Education
+    SLSci        Space Life Sciences
+    SpMar        Space Markets
+    SpMME        Space Medicine Medical Engineering
+2003LNP...615    Space Plasma Simulation
+    SpPol        Space Policy
+    SpPow        Space Power
+    SPRMD        Space Power Resources and Manufacturing Development
+    SpRBu        Space Research Bulgaria
+    SpReT        Space Research Today
+    SSI..        Space Science Instrumentation
+    SSRv.        Space Science Reviews
+1998LNP...507    Space Solar Physics: Theoretical and Observational Issues in the Context of the SOHO Mission
+    SpT..        Space Technology
+    STICA        Space Technology Industrial and Commercial Applications
+    SpWea        Space Weather
+    SpWd.        Space World
+    SpWdU        Space World U
+    SpWdW        Space World W
+    SpWdY        Space World Y
+    SpFl.        Spaceflight
+    Spvw.        Spaceview
+2009LNP...777    Spectral Methods in Quantum Field Theory
+    AcSpe        Spectrochimica Acta
+    AcSpA        Spectrochimica Acta Part A: Molecular Spectroscopy
+    SpecL        Spectroscopy Letters
+    SScT.        Speculations in Science and Technology
+2001LNP...569    Spin Electronics
+1983LNP...192    Spin Glasses
+    SpEng        Sports Engineering
+    SLJP.        Sri Lankan Journal of Physics
+    SrLJP        Sri Lankan Journal of Physics
+    SRXPh        SRX Physics
+1982LNP...164    Stability of Thermodynamics Systems
+1994LNP...431    Star Formation and Techniques in Infrared and mm-Wave Astronomy
+    StSky        Star Sky
+1983LNP...190    States, Effects, and Operations Fundamental Notions of Quantum Theory
+1984LNP...206    Static Critical Phenomena in Inhomogeneous Systems
+2000LNP...547    Statistical and Dynamical Aspects of Mesoscopic Systems
+1986LNP...257    Statistical Mechanics and Field Theory: Mathematical Aspects
+2003LNP...625    Statistical Mechanics of Complex Networks
+1990LNP...368    Statistical Mechanics of Neural Networks
+1986LNP...251    Statistical Mechanics of Periodic Frustrated Ising Systems
+    StMet        Statistical Methodology
+2000LNP...554    Statistical Physics and Spatial Statistics. The Art of Analyzing and Modeling Spatial Structures and Pattern Formation
+    StaSc        Statistical Science
+    StCom        Statistics and Computing
+    StReL        Staub Reinhaltung Luft
+1997LNP...497    Stellar Atmospheres: Theory and Observations
+2003LNP...635    Stellar Candles for the Extragalactic Distance Scale
+1987LNP...274    Stellar Pulsation
+    SMSPS        Stephan Mueller Special Publication Series
+    TriTr        STLE Tribology Transactions
+    SAA..        Stochastic Analysis and Applications
+    SHH..        Stochastic Hydrology and Hydraulics
+1983LNP...184    Stochastic Processes Formalism and Applications
+1986LNP...262    Stochastic Processes in Classical and Quantum Systems
+1978LNP....84    Stochastic Processes in Nonequilibrium Systems
+2000LNP...557    Stochastic Processes in Physics, Chemistry, and Biology
+1982LNP...173    Stochastic Processes in Quantum Theory and Statistical Physics
+    SSRp.        Stochastics and Stochastics Reports
+    Strab        Strabismus
+    SGC..        Stratigraphy and Geological Correlation
+2008LNP...737    String Theory and Fundamental Interactions
+1995LNP...447    Strings and Symmetries
+    StrOp        Structural Optimization
+1994LNP...439    The Structure and Content of Molecular Clouds
+1978LNP....75    Structure and Mechanisms of Turbulence I
+1978LNP....76    Structure and Mechanisms of Turbulence II
+    SASn.        Studia Astronomica Sinica
+    StBio        Studia Biophysica
+    StGG.        Studia Geophysica et Geodaetica
+    StHPM        Studies in the History and Philosophy of Modern Physics
+    StHMP        Studies in the History of Mathematics and the Physical Sciences
+    StAM.        Studies in Applied Mathematics
+    SCMP.        Studies in Condensed Matter Physics
+    SGORS        Studies in Geophysical Optics and Remote Sensing
+    StGeo        Studies in Geophysics
+    StHEP        Studies in High Energy Physics
+    StHCG        Studies in High Energy Physics Cosmology and Gravitation
+    StMaP        Studies in Mathematical Physics
+    StPTC        Studies in Physical and Theoretical Chemistry
+    SScEd        Studies in Science Education
+    StCeF        Studii si Cercetari de Fizica
+    StCeM        Studii si Cercetari Matematice
+    StCMA        Studii si Cercetary de Mecanica Aplicata
+1994LNP...426    Substructures of Matter as Revealed with Electroweak Probes
+    SSTA.        Subsurface Sensing Technologies and Applications
+    SunGe        Sun and Geosphere
+2003LNP...599    The Sun's Surface and Subsurface: Investigating Shape
+    Sunwo        Sunworld
+    SuScT        Superconductor Science Technology
+    SuMi.        Superlattices and Microstructures
+1988LNP...316    Supernova Shells and Their Birth Events
+2003LNP...598    Supernovae and Gamma-Ray Bursters
+1985LNP...224    Supernovae as Distance Indicators
+1996LNP...472    Supersoft X-Ray Sources
+1998LNP...509    Supersymmetry and Quantum Field Theory
+1984LNP...208    Supersymmetry and Supergravity Nonperturbative QCD
+    JPhSu        Supplement au Journal de Physique
+    SAnAp        Supplements aux Annales d'Astrophysique
+    SuCT.        Surface and Coatings Technology
+    SurIA        Surface and Interface Analysis
+1992LNP...397    Surface Inhomogeneities on Late-Type Stars
+    SRL..        Surface Review and Letters
+    SuRvL        Surface Reviews and Letters
+    SurSc        Surface Science
+    SurSL        Surface Science Letter
+    SurSR        Surface Science Reports
+    SurSS        Surface Science Spectra
+    SGeo.        Surveys in Geophysics
+    SHEP.        Surveys in High Energy Physics
+1987LNP...279    Symmetries and Semiclassical Features of Nuclear Dynamics
+1982LNP...167    Symmetry of Polycentric Systems: The Polycentric Tensor Algebra for Molecules
+    SynMe        Synthetic Metals
+    SAMS.        Systems Analysis Modelling Simulation
+1980LNP...132    Systems Far from Equilibrium: Sitges Conference on Statistical Mechanics
+    SyTec        Systems Technology
+    TecN.        Technical News
+    TePhL        Technical Physics Letters
+    TeLoA        Technika Lotnicza i Astronautyczna
+    TBBM.        Techniques of Biochemical and Biophysical Morphology
+    TPhy.        Techniques of Physics
+    TeCu.        Technology and Culture
+    TecRv        Technology Review
+    Tecto        Tectonics
+    Tectp        Tectonophysics
+    TekEl        Tekhnicheskaia Elektrodinamika
+    TJAu.        Telecommunication Journal of Australia
+    TRET.        Telecommunications and Radio Engineering Telecommunications
+    TelIn        Telematics Informatics
+    Telet        Telettra S
+    Tell.        Tellus
+    TellA        Tellus Series A
+    TellB        Tellus Series B Chemical and Physical Meteorology B
+1981LNP...147    Temperature Dependent Thomas-Fermi Theory
+    TeoEl        Teoreticheskaia Elektrotekhnika
+    TeoPM        Teoreticheskaia i Prikladnaia Mekhanika
+    TeoVP        Teoriia Veroiatnostei i ee Primeneniia
+    Teplo        Teploenergetika
+    Tepsg        Teplofizicheskie svoistva gazov
+    TepT.        Teplofizika i Teplotekhnika
+    TepVT        Teplofizika Vysokikh Temperatur
+2000tcsp.conf    Terrestrial and Cosmic Spherules
+    TeMAE        Terrestrial Magnetism and Atmospheric Electricity (Journal of Geophysical Research)
+    TeMag        Terrestrial Magnetism (Journal of Geophysical Research)
+    TexMi        Textures and Microstructures
+    AcTC.        Theoretica Chimica Acta
+    ThApC        Theoretical and Applied Climatology
+    ThAFM        Theoretical and Applied Fracture Mechanics
+    TAM..        Theoretical and Applied Mechanics
+    ThCFD        Theoretical and Computational Fluid Dynamics
+    TMP..        Theoretical and Mathematical Physics
+1980LNP...131    Theoretical Aspects of Mainly Low Dimensional Magnetic Systems
+    ThAst        Theoretical Astrophysics
+2000LNP...539    Theoretical Physics Fin de Siècle
+1974LNP....26    Theorie der Domänenwände in geordneten Medien
+1974LNP....27    Theorie der Domänenwände in geordneten Medien
+    TPAG.        Theory and Practice of Applied Geophysics
+2008LNP...753    Theory and Simulation of Hard-Sphere Fluids and Related Systems
+1991LNP...372    Theory of Structured Multiphase Mixtures
+2004LNP...654    The Theory of Symmetry Actions in Quantum Mechanics: with an Application to the Galilei Group
+2000ASPC..196    Thermal Emission Spectroscopy and Analysis of Dust, Disks, and Regoliths
+    ThEng        Thermal Engineering
+2002LNP...584    Thermal Nonequilibrium Phenomena in Fluid Mixtures
+    TSE..        Thermal Science and Engineering
+1985LNP...228    Thermodynamics and Constitutive Equations
+    Th&Ae        Thermophysics and Aeromechanics
+    TSF..        Thin Solid Films
+1986LNP...260    The Three-Body Force in the Three-Nucleon System
+1982LNP...171    Time-Dependent Hartree-Fock and Beyond
+1989LNP...335    Time-Harmonic Electromagnetic Fields in Chiral Media
+    TiEng        Tissue Engineering
+2010tfch.book    Titan from Cassini-Huygens
+    TApA.        Top. Astrophys. Astron. Space Sci.
+    ToCat        Topics in Catalysis
+    TCPh.        Topics in Current Physics
+1981LNP...144    Topics in Nuclear Physics I: A Comprehensive Review of Recent Developments
+1981LNP...145    Topics in Nuclear Physics II A Comprehensive Review of Recent Developments
+    TPhCh        Topics in Physical Chemistry
+1978LNP....77    Topics in Quantum Field Theory and Gauge Theories
+2005LNP...659    Topology and Geometry in Physics
+2000LNP...541    Toward Quantum Gravity
+    TAGU.        Transactions of the American Geophysical Union
+    TAMS.        Transactions of the American Mathematical Society
+    TAPS.        Transactions of the American Philosophical Society
+    TCaPS        Transactions of the Cambridge Philosophical Society
+    TIMC.        Transactions of the Institute of Measurement and Control
+    TJSAI        Transactions of the Japanese Society for Artificial Intelligence
+    TrOS.        Transactions of the Optical Society
+    TrSpT        Transactions of Space Technology Japan
+2000LNP...553    Transport and Energy Conversion in the Heliosphere
+2008LNP...744    Transport and Mixing in Geophysical Flows
+    TPM..        Transport in Porous Media
+1974LNP....31    Transport Phenomena
+    TTSP.        Transport Theory and Statistical Physics
+    TrGeo        Treatise on Geochemistry
+1984LNP...195    Trends and Applications of Pure Mathematics to Mechanics
+1986LNP...249    Trends in Applications of Pure Mathematics to Mechanics
+1975LNP....37    Trends in Elementary Particle Theory
+    TTP..        Trends in Theoretical Physics
+    TriL.        Tribology Letters
+2003LNP...614    Turbulence and Magnetic Fields in Astrophysics
+2009LNP...778    Turbulence in Space Plasmas
+    TJPh.        Turkish Journal of Physics
+2010AIPC.1216    Twelfth International Solar Wind Conference
+2010AIPC.1248    Twelfth International Solar Wind Conference
+    UkJPO        Ukrainian Journal of Physical Optics
+    UkFiZ        Ukrainskii Fizicheskii Zhurnal
+    UkMaZ        Ukrainskii Matematicheskii Zhurnal
+    UkMJ.        Ukranian Mathematical Journal
+    Ultmi        Ultramicroscopy
+    UltIm        Ultrasonic Imaging
+    Ultra        Ultrasonics
+2003LNP...623    Understanding Calcium Dynamics
+1982LNP...160    Unified Theories of Elementary Particles, Critical Assessment and Prospects
+1996LNP...470    The Universe at High-z, Large-Scale Structure and the Cosmic Microwave Background
+    UAPET        Updates in Applied Physics and Electrical Technology
+1986LNP...267    The Use of Supercomputers in Stellar Dynamics
+    UsFiN        Uspekhi Fizicheskikh Nauk
+1991LNP...377    Variability of Active Galaxies
+1987LNP...290    The Vector Coherent State Method and Its Application to Problems of Higher Symmetries
+    VSD..        Vehicle System Dynamics
+1985LNP...223    Vereinheitlichte Feldtheorien der Elementarteilchen: Eine Einführung
+    VMed.        Vierteljahrschrift für Gerichtliche Medizin und Öffentliches Sanitätswesen
+    VNG..        Vierteljahrsschrift der Naturforschenden Gesellschaft in Zürich
+    VJS..        Virginia Journal of Science
+1991LNP...374    Viscous Vortical Flows
+    ViGeo        Vissha Geodeziia
+    VA...        Vistas in Astronomy
+    VTJ..        Vitro Technical Journal
+    VLSID        VLSI Design
+1984LNP...203    Vortex Methods in Two-Dimensional Fluid Dynamics
+2000LNP...555    Vortex Structure and DynamicsLNP Vol. 555ture and Dynamics
+    W&S..        Waerme und Stoffuebertragung
+    WavEl        Wave Electronics
+    WaMot        Wave Motion
+1977LNP....70    Wave Propagation and Underwater Acoustics
+    WRCM.        Waves in Random and Complex Media
+    WRM..        Waves in Random Media
+1977LNP....64    Waves on Water of Variable Depth
+    Wear.        Wear
+    WearB        Wear B
+    Wthr.        Weather
+    WtFor        Weather and Forecasting
+    WeiEn        Weight Engineering
+    WeldJ        Welding Journal
+    Welt.        Die Weltall
+1990LNP...354    Wetting Phenomena
+    JIMO.        WGN, Journal of the International Meteor Organization
+1995LNP...443    White Dwarfs
+1990LNP...357    Whither Turbulence? Turbulence at the Crossroads
+    WiEn.        Wind Energy
+    WiEng        Wind Engineering
+    WisBT        Wissenschaftliche Berichte AEG Telefunken
+    WisZe        Wissenschaftliche Zeitschrift
+1984LNP...196    WOPPLOT 83 Parallel Processing: Logic, Organization, and Technology
+2001AIPC..599    X-ray Astronomy: Stellar Endpoints, AGN, and the Diffuse X-ray Background
+1999LNP...520    X-Ray Spectroscopy in Astrophysics
+    YaFiz        Yadernaya Fizika
+    JAMP.        ZAMP Journal of Applied Mathematics and Physics
+    ZaMM.        Zeitschrift Angewandte Mathematik und Mechanik
+    ZaMP.        Zeitschrift Angewandte Mathematik und Physik
+    ZFHDG        Zeitschrift der Fachsektion Hydrogeologie in der Deutschen Geologischen Gesellschaft
+    ZeIE.        Zeitschrift elektrische Informations und Energietechnik
+    ZAGeo        Zeitschrift fur Angewandte Geographie
+    ZAPhy        Zeitschrift fur Angewandte Physik
+    ZAAC.        Zeitschrift fur Anorganische und Allgemeine Chemie
+    ZA...        Zeitschrift fur Astrophysik
+    ZFlu.        Zeitschrift fur Flugwissenschaften
+    ZFlWe        Zeitschrift fur Flugwissenschaften und Weltraumforschung
+    ZGm..        Zeitschrift fur Geomorphologie
+    ZGmS.        Zeitschrift fur Geomorphologie Supplement
+    ZGeo.        Zeitschrift fur Geophysik
+    ZGlGl        Zeitschrift fur Gletscherkunde und Glazialgeologie
+    ZKri.        Zeitschrift fur Kristallographie
+    ZMetl        Zeitschrift fur Metallkunde
+    ZPhy.        Zeitschrift fur Physik
+    ZPhyA        Zeitschrift fur Physik A Hadrons and Nuclei
+    ZPhyB        Zeitschrift fur Physik B Condensed Matter
+    ZPhyC        Zeitschrift fur Physik C Particles and Fields
+    ZPhyD        Zeitschrift fur Physik D Atoms Molecules Clusters
+    ZPC..        Zeitschrift fur Physikalische Chemie
+    ZPCF.        Zeitschrift fur Physikalische Chemie Frankfurt
+    ZPCL.        Zeitschrift fur Physikalische Chemie Leipzig
+    ZPCNF        Zeitschrift fur Physikalische Chemie Neue Folge
+    ZPCW.        Zeitschrift fur Physikalische Chemie Wiesbaden
+    ZEAPC        Zeitschrift für Elektrochemie und Angewandte Physikalische Chemie
+    ZMP..        Zeitschrift für Mathematik und Physik
+    ZNatA        Zeitschrift Naturforschung Teil A
+    ZNatB        Zeitschrift Naturforschung Teil B
+    ZemVs        Zemlia i Vselennaia
+    Zenit        Zenit
+    ZhPmR        ZhETF Pis ma Redaktsiiu
+    ZhETF        Zhurnal Eksperimental noi i Teoreticheskoi Fiziki
+    ZhFK.        Zhurnal Fizicheskoi Khimii
+    ZNPFK        Zhurnal Nauchnoi i Prikladnoi Fotografii i Kinematografii
+    ZhPhy        Zhurnal Physik
+    ZhPS.        Zhurnal Prikladnoi Spektroskopii
+    ZhTFi        Zhurnal Tekhnicheskoi Fiziki
+    ZVMMF        Zhurnal Vychislitel noi Matematiki i Matematicheskoi Fiziki
+    ZiZa.        Ziran Zazhi
+    Zprav        Zpravodaj VZLUGidrometeoizdat
